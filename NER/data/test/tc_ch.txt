@@ -1,0 +1,12342 @@
+But O
+%um O
+, O
+guessed O
+what O
+happened O
+. O
+
+What O
+? O
+
+%um O
+The O
+%um O
+
+Again O
+? O
+
+%um O
+118.91_120.82_B: O
+Let O
+'s O
+see O
+, O
+
+two B-DATE
+weeks I-DATE
+ago I-DATE
+
+I O
+know O
+Sue B-PERSON
+is O
+going O
+to O
+Rhode B-GPE
+Island I-GPE
+. O
+
+%eh O
+Right O
+. O
+
+Right O
+. O
+
+Did O
+she O
+see O
+her O
+mom O
+? O
+
+Yes O
+she O
+did O
+. O
+
+And O
+? O
+
+Yes O
+she O
+did O
+. O
+
+And O
+? O
+
+%um O
+, O
+%um O
+, O
+which O
+we O
+had O
+already O
+anticipated O
+that O
+it O
+was O
+going O
+to O
+happen O
+. O
+
+I O
+spoke O
+to O
+her O
+mom O
+on O
+Thursday B-DATE
+
+%um O
+and O
+I O
+asked O
+her O
+
+I O
+said O
+listen O
+
+I O
+said O
+%um O
+please O
+come O
+to O
+Shabbat O
+
+things O
+have O
+come O
+to O
+a O
+point O
+where O
+I O
+may O
+have O
+to O
+relinquish O
+my O
+, O
+%uh O
+parenting O
+. O
+
+%uh O
+would O
+you O
+mind O
+%uh O
+taking O
+her O
+back O
+
+and O
+she O
+said O
+no O
+. O
+
+She O
+said O
+%uh O
+she O
+'d O
+be O
+more O
+than O
+happy O
+to O
+. O
+
+Really O
+? O
+
+This O
+girl O
+has O
+everything O
+in O
+her O
+dreams O
+you O
+know O
+. O
+
+it O
+is O
+as O
+my O
+husband O
+says O
+%uh O
+, O
+%uh O
+al O
+kadir O
+the O
+destiny O
+. O
+
+Selema B-PERSON
+I O
+'m O
+telling O
+you O
+, O
+
+it O
+is O
+like O
+Allah O
+has O
+just O
+painted O
+the O
+road O
+
+and O
+all O
+I O
+had O
+to O
+do O
+was O
+get O
+on O
+it O
+and O
+follow O
+it O
+. O
+
+I O
+mean O
+things O
+have O
+been O
+happening O
+that O
+has O
+just O
+scared O
+the O
+heck O
+out O
+of O
+me O
+. O
+
+I O
+told O
+mom O
+
+I O
+said O
+mom O
+it O
+is O
+when O
+you O
+believe O
+in O
+Allah O
+, O
+when O
+you O
+have O
+faith O
+and O
+know O
+when O
+you O
+truly O
+give O
+your O
+heart O
+to O
+Allah O
+, O
+only O
+Allah O
+can O
+make O
+the O
+way O
+clear O
+for O
+you O
+. O
+
+%uh O
+. O
+
+I O
+believe O
+that O
+by O
+her B-DATE
+birthday I-DATE
+she O
+will O
+be O
+living O
+with O
+her O
+mother O
+. O
+
+Really O
+? O
+
+mhm O
+mhm O
+. O
+
+and O
+is O
+she O
+seem O
+like O
+she O
+'s O
+together O
+enough O
+? O
+
+she O
+'s O
+in O
+a O
+two B-DATE
+year I-DATE
+program O
+. O
+
+She O
+'s O
+in O
+the O
+program O
+now O
+. O
+
+She O
+'s O
+doing O
+very O
+well O
+. O
+
+When O
+I O
+talked O
+to O
+her O
+I O
+'m O
+talking O
+to O
+her O
+like O
+I O
+'m O
+talking O
+to O
+you O
+. O
+
+I O
+wrote O
+her O
+a O
+letter O
+and O
+told O
+her O
+
+I O
+said O
+I O
+feel O
+like O
+I O
+know O
+you O
+even O
+though O
+I O
+never O
+met O
+you O
+. O
+
+They O
+seemed O
+surprised O
+that O
+, O
+
+I O
+mean O
+most O
+women O
+you O
+lose O
+your O
+baby O
+that O
+'s O
+it O
+. O
+
+But O
+almighty O
+God O
+is O
+
+You O
+never O
+even O
+get O
+a O
+chance O
+to O
+see O
+them O
+again O
+. O
+
+That O
+'s O
+true O
+. O
+
+That O
+'s O
+true O
+. O
+
+But O
+that O
+'s O
+what O
+she O
+had O
+wrote O
+me O
+. O
+
+she O
+said O
+it O
+is O
+just O
+awesome O
+to O
+her O
+what O
+is O
+happening O
+. O
+
+yup O
+. O
+
+mhm O
+. O
+
+aw O
+I O
+'ve O
+heard O
+of O
+that O
+. O
+
+yup O
+. O
+
+So O
+Francis B-PERSON
+
+Did O
+she O
+say O
+how O
+she O
+felt O
+about O
+what O
+had O
+happened O
+? O
+
+No O
+. O
+
+we O
+have O
+n't O
+really O
+talked O
+about O
+that O
+
+but O
+I O
+'m O
+planning O
+on O
+making O
+a O
+trip O
+down O
+to O
+visit O
+her O
+. O
+
+Well O
+, O
+how O
+does O
+Akina B-PERSON
+feel O
+? O
+
+she O
+'s O
+, O
+very O
+happy O
+about O
+it O
+. O
+
+Very O
+ha- O
+
+Well O
+did O
+she O
+come O
+home O
+and O
+say O
+I O
+saw O
+her O
+, O
+I O
+look O
+like O
+her O
+or O
+what O
+? O
+
+we O
+talked O
+on O
+the O
+phone O
+
+and O
+you O
+know O
+she O
+talked O
+about O
+%um O
+her O
+sisters O
+you O
+know O
+and O
+things O
+
+we O
+'ve O
+spent O
+the O
+night B-TIME
+with O
+her O
+sisters O
+and O
+things O
+
+and O
+%um O
+it O
+'s O
+just O
+been O
+quite O
+interesting O
+although O
+when O
+she O
+was O
+in O
+Rhode B-GPE
+Island I-GPE
+she O
+was O
+very O
+disruptive O
+, O
+%um O
+down O
+there O
+and O
+really O
+caused O
+Francis B-PERSON
+a O
+lot O
+of O
+stress O
+
+and O
+%um O
+Francis B-PERSON
+was O
+very O
+worried O
+about O
+me O
+because O
+she O
+came O
+home O
+two B-DATE
+weeks I-DATE
+before O
+you O
+know O
+%um O
+because O
+she O
+just O
+was O
+acting O
+like O
+a O
+total O
+nigger O
+child O
+. O
+
+uh-oh O
+! O
+
+Hope O
+the O
+research O
+did O
+n't O
+hear O
+that O
+! O
+
+uh-oh O
+! O
+
+wait O
+
+wait O
+
+Alita B-PERSON
+I O
+'m O
+telling O
+you O
+nobody O
+can O
+handle O
+her O
+but O
+you O
+, O
+okay O
+. O
+
+And O
+%um O
+, O
+
+but O
+she O
+was O
+very O
+concerned O
+about O
+me O
+and O
+everything O
+%um O
+because O
+%um O
+the O
+child O
+had O
+told O
+some O
+lies O
+about O
+me O
+and O
+about O
+you O
+. O
+
+oh O
+. O
+
+oh O
+296.72_297.91_A: O
+oh O
+no O
+. O
+
+And O
+about O
+
+oh O
+yeah O
+mhm O
+
+oh O
+goodness O
+. O
+
+yeah O
+. O
+
+That O
+we O
+were O
+abusing O
+, O
+
+that O
+%um O
+you O
+know O
+, O
+
+oh O
+yeah O
+
+she O
+did O
+some O
+%eh O
+, O
+
+and O
+it O
+was O
+very O
+, O
+very O
+bad O
+. O
+
+My O
+daughter O
+- O
+in O
+- O
+law O
+Barbara B-PERSON
+got O
+on O
+her O
+case O
+real O
+serious O
+yesterday B-DATE
+. O
+
+Told O
+her O
+that O
+she O
+could O
+n't O
+talk O
+to O
+Jasmine B-PERSON
+play O
+with O
+Jasmine B-PERSON
+because O
+she O
+said O
+she O
+hurt O
+Jasmine B-PERSON
+'s O
+Jetta B-PERSON
+you O
+know O
+
+and O
+she O
+said O
+that O
+if O
+it O
+was O
+n't O
+for O
+Jetta B-PERSON
+you O
+know O
+Jasmine B-PERSON
+'s O
+daddy O
+would O
+n't O
+be O
+
+oh O
+she O
+'d O
+
+oh O
+man O
+%uh O
+it O
+was O
+
+aw O
+. O
+
+You O
+know O
+that O
+has O
+always O
+been O
+very O
+scary O
+to O
+me O
+even O
+after O
+. O
+
+I O
+said O
+to O
+Mark B-PERSON
+oh O
+my O
+god O
+. O
+What O
+'s O
+she O
+going O
+to O
+say O
+
+because O
+I O
+knew O
+what O
+she O
+would O
+do O
+if O
+I O
+took O
+her O
+somewhere O
+you O
+know O
+what O
+she O
+would O
+say O
+
+and O
+I O
+, O
+
+you O
+know O
+in O
+the O
+climate O
+of O
+today O
+, O
+Yes O
+. O
+people O
+saying O
+something O
+like O
+that O
+. O
+
+That O
+well O
+, O
+
+you O
+know O
+that O
+'s O
+
+and O
+Francis B-PERSON
+was O
+very O
+concerned O
+in O
+reference O
+to O
+you O
+know O
+she O
+was O
+in O
+school O
+and O
+things O
+
+and O
+she O
+was O
+very O
+, O
+very O
+concerned O
+. O
+
+Alita B-PERSON
+she O
+said O
+this O
+little O
+girl O
+has O
+a O
+serious O
+problem O
+. O
+
+She O
+wrote O
+me O
+a O
+letter O
+mhm O
+. O
+you O
+know O
+about O
+her O
+needing O
+a O
+lot O
+of O
+love O
+, O
+a O
+lot O
+of O
+%um O
+help O
+and O
+different O
+things O
+like O
+this O
+, O
+
+but O
+you O
+know O
+you O
+'ve O
+heard O
+the O
+saying O
+I O
+'m O
+sure O
+from O
+your O
+grandmother O
+
+the O
+sins O
+of O
+your O
+parents O
+will O
+be O
+waged O
+back O
+at O
+you O
+, O
+%hm O
+. O
+you O
+know O
+, O
+
+%um O
+and O
+again O
+my O
+husband O
+said O
+we O
+were O
+going O
+to O
+give O
+it O
+a B-DATE
+month I-DATE
+, O
+you O
+know O
+and O
+said O
+he O
+was O
+even O
+going O
+to O
+have O
+to O
+sheik O
+pray O
+over O
+her O
+, O
+you O
+know O
+for O
+the O
+jen O
+. O
+
+%hm O
+. O
+
+You O
+know O
+, O
+I O
+mean O
+, O
+we O
+'re O
+d- O
+, O
+you O
+know O
+, O
+
+and O
+I O
+think O
+we O
+'re O
+still O
+going O
+to O
+be O
+doing O
+that O
+
+but O
+I O
+think O
+he O
+'s O
+at O
+a O
+point O
+now O
+where O
+he O
+'s O
+reserved O
+us O
+of O
+that O
+%um O
+, O
+you O
+know O
+that O
+she O
+may O
+end O
+up O
+going O
+%um O
+to O
+%uh O
+t- O
+
+oh O
+well O
+the O
+thing O
+is O
+your O
+whole O
+life O
+has O
+been O
+around O
+her O
+mhm O
+. O
+more O
+or O
+less O
+
+mhm O
+. O
+mhm O
+. O
+
+I O
+mean O
+it O
+is O
+you O
+know O
+I O
+mean O
+absorbed O
+
+mhm O
+. O
+mhm O
+. O
+
+where O
+is O
+, O
+you O
+know O
+
+mhm O
+%mm O
+. O
+
+and O
+you O
+know O
+, O
+I O
+mean O
+
+this O
+is O
+a O
+lousy O
+
+%eh O
+I O
+truly O
+believe O
+that O
+**Salem** O
+
+I O
+do O
+n't O
+think O
+, O
+
+you O
+think O
+she O
+'ll O
+be O
+better O
+with O
+her O
+mother O
+? O
+
+I O
+have O
+no O
+idea O
+. O
+
+I O
+really O
+have O
+no O
+idea O
+. O
+
+But O
+
+%um O
+, O
+but O
+you O
+know O
+the O
+, O
+
+if O
+this O
+does O
+happen O
+and O
+I O
+do O
+believe O
+it O
+may O
+happen O
+, O
+%um O
+you O
+know O
+we O
+will O
+have O
+an O
+agreement O
+, O
+she O
+and O
+I O
+, O
+you O
+know O
+, O
+
+%um O
+she O
+will O
+become O
+the O
+legal O
+guardian O
+and O
+that O
+%um O
+
+%uh O
+you O
+know O
+I O
+just O
+want O
+her O
+to O
+understand O
+everything O
+that O
+has O
+happened O
+in O
+the B-DATE
+last I-DATE
+several I-DATE
+years I-DATE
+yeah O
+. O
+and O
+things O
+like O
+that O
+. O
+
+She O
+needs O
+to O
+be O
+clear O
+about O
+that O
+because O
+this O
+child O
+wo O
+n't O
+be O
+like O
+the O
+other O
+two B-CARDINAL
+. O
+
+%eh O
+%eh O
+You O
+know O
+, O
+%um O
+Well O
+, O
+she O
+said O
+that O
+she O
+was O
+. O
+
+Andre B-PERSON
+said O
+that O
+she O
+was O
+. O
+
+oh O
+yeah O
+. O
+
+She O
+was O
+like O
+her O
+two B-CARDINAL
+daughters O
+, O
+
+yeah O
+. O
+
+mhm O
+. O
+
+yeah O
+. O
+
+they O
+had O
+the O
+same O
+, O
+maybe O
+just O
+
+problems O
+and O
+different O
+, O
+
+she O
+has O
+n't O
+been O
+with O
+her O
+children O
+for O
+ten B-DATE
+years I-DATE
+. O
+
+Her O
+, O
+or O
+her O
+two B-CARDINAL
+girls O
+. O
+
+%ah O
+. O
+
+And O
+they O
+'re O
+twelve B-DATE
+and O
+, O
+
+no O
+they O
+'re O
+nine B-DATE
+and O
+thirteen B-DATE
+or O
+something O
+like O
+that O
+. O
+
+yup O
+, O
+
+but O
+she O
+'s O
+working O
+very O
+hard O
+. O
+
+She O
+'s O
+trying O
+to O
+become O
+a O
+counselor O
+in O
+this O
+drug O
+program O
+, O
+and O
+things O
+
+and O
+she O
+sounds O
+like O
+she O
+'s O
+really O
+trying O
+hard O
+. O
+
+and O
+I O
+just O
+believe O
+it O
+'s O
+you O
+know O
+time O
+, O
+you O
+know O
+
+and O
+, O
+who O
+would O
+have O
+ever O
+thought O
+it O
+though O
+, O
+
+you O
+know O
+what O
+I O
+mean O
+? O
+
+Does O
+she O
+know O
+that O
+you O
+'re O
+Muslim B-NORP
+? O
+
+mhm O
+. O
+
+mhm O
+. O
+
+uh-huh O
+
+yup O
+. O
+
+yup O
+. O
+
+yup O
+
+%um O
+So O
+that O
+'s O
+been O
+my O
+most O
+interesting O
+things O
+in O
+the B-DATE
+last I-DATE
+three I-DATE
+weeks I-DATE
+. O
+
+oh O
+that O
+'s O
+some O
+deep O
+, O
+
+that O
+'s O
+just O
+too O
+deep O
+. O
+
+yup O
+. O
+
+yup O
+. O
+
+mhm O
+. O
+
+yup O
+. O
+
+Been O
+very O
+, O
+very O
+, O
+very O
+, O
+heavy O
+. O
+
+like O
+mom O
+said O
+she O
+said O
+even O
+if O
+it O
+was O
+going O
+to O
+be O
+in O
+September B-DATE
+, O
+she O
+said O
+the O
+little O
+things O
+I O
+can O
+tolerate O
+you O
+know O
+if O
+that O
+happens O
+you O
+know O
+. O
+
+But O
+you O
+know O
+I O
+always O
+worried O
+
+you O
+know O
+even O
+after O
+you O
+left O
+I O
+said O
+, O
+I O
+just O
+hope O
+Arlita B-PERSON
+knows O
+that O
+you O
+know O
+I O
+tried O
+my O
+best O
+you O
+know O
+
+and O
+Everybody O
+has O
+to O
+keep O
+them O
+, O
+Selema B-PERSON
+, O
+everybody O
+, O
+everybody O
+You O
+know O
+, O
+
+and O
+I O
+told O
+her O
+
+I O
+said O
+you O
+know O
+it O
+'s O
+a O
+shame O
+that O
+you O
+ca O
+n't O
+go O
+no O
+place O
+and O
+I O
+can O
+get O
+a O
+good O
+report O
+on O
+you O
+you O
+know O
+, O
+%um O
+, O
+and O
+by O
+her O
+going O
+to O
+Francis B-PERSON
+and O
+things O
+, O
+and O
+Francis B-PERSON
+seeing O
+for O
+herself O
+, O
+
+she O
+was O
+like O
+whoa O
+. O
+
+did O
+Francis B-PERSON
+feel O
+she O
+had O
+changed O
+a O
+lot O
+? O
+
+oh O
+yes O
+. O
+
+t- O
+, O
+
+oh O
+yes O
+. O
+
+You O
+know O
+, O
+mhm O
+, O
+mhm O
+. O
+
+a- O
+, O
+
+%ah O
+. O
+
+%um O
+, O
+%um O
+, O
+but O
+you O
+know O
+I O
+feel O
+very O
+at O
+peace O
+about O
+everything O
+. O
+
+uh-huh O
+. O
+
+I O
+feel O
+very O
+at O
+peace O
+you O
+know O
+. O
+
+Well O
+it O
+'s O
+good O
+to O
+hear O
+from O
+Francis B-PERSON
+who O
+'s O
+had O
+a O
+lot O
+of O
+child- O
+
+Yes O
+. O
+
+Over B-CARDINAL
+six I-CARDINAL
+hundred I-CARDINAL
+. O
+
+oh O
+. O
+
+Over B-CARDINAL
+six I-CARDINAL
+hundred I-CARDINAL
+foster O
+children O
+. O
+
+oh O
+. O
+
+Yes O
+. O
+
+mhm O
+. O
+
+You O
+know O
+she O
+would O
+'ve O
+seen O
+it O
+all O
+. O
+
+She O
+called O
+mom O
+to O
+talk O
+to O
+mom O
+
+let O
+'s O
+see O
+she O
+bought O
+, O
+
+I O
+met O
+her O
+in O
+Albany B-GPE
+
+mhm O
+. O
+
+and O
+she O
+bought O
+her O
+
+%um O
+she O
+caught O
+, O
+
+that O
+was O
+on O
+Friday B-DATE
+last I-DATE
+Friday I-DATE
+
+she O
+called O
+mom O
+Monday B-DATE
+And O
+talked O
+to O
+mom O
+for O
+two B-TIME
+hours I-TIME
+
+uh-huh O
+. O
+
+%mm O
+. O
+
+She O
+talked O
+to O
+mom O
+here O
+in O
+Rochester B-GPE
+. O
+
+oh O
+you O
+'re O
+kidding O
+
+I O
+was O
+sick O
+up O
+in O
+Syracuse B-GPE
+. O
+
+She O
+talked O
+to O
+mom O
+. O
+
+something O
+must O
+'ve O
+been O
+on O
+her O
+mind O
+. O
+
+she O
+told O
+mom O
+
+she O
+said O
+she O
+was O
+so O
+concerned O
+that O
+this O
+little O
+girl O
+was O
+going O
+to O
+just O
+get O
+out O
+here O
+cause O
+I O
+was O
+n't O
+going O
+to O
+send O
+back O
+to O
+the O
+school O
+, O
+the O
+Muslim B-NORP
+school O
+. O
+
+uh-huh O
+. O
+
+And O
+she O
+was O
+just O
+really O
+concerned O
+about O
+you O
+know O
+everything O
+. O
+mhm O
+you O
+know O
+. O
+What O
+the O
+possibilities O
+of O
+like O
+
+Sure O
+. O
+
+Sure O
+. O
+
+yep O
+. O
+
+mhm O
+. O
+
+mhm O
+. O
+
+Well O
+you O
+know O
+or O
+luck O
+making O
+a O
+way O
+and O
+making O
+it O
+at O
+ease O
+for O
+you O
+to O
+
+Well O
+you O
+know O
+why O
+Allah O
+is O
+doing O
+this O
+. O
+
+I O
+'m O
+going O
+to O
+tell O
+you O
+why O
+
+because O
+my O
+daughter O
+- O
+in O
+- O
+law O
+is O
+pregnant O
+again O
+. O
+
+oh O
+no O
+! O
+
+She O
+said O
+she O
+was O
+going O
+to O
+call O
+you O
+. O
+
+She O
+said O
+she O
+was O
+going O
+to O
+call O
+you O
+. O
+
+%ah O
+
+I O
+said O
+well O
+you O
+call O
+Selema B-PERSON
+
+and O
+you O
+tell O
+her O
+. O
+
+I O
+said O
+oh O
+and O
+I O
+do O
+n't O
+have O
+your O
+number O
+in O
+my O
+other O
+phonebook O
+I O
+said O
+. O
+
+I O
+said O
+you O
+just O
+call O
+her O
+and O
+tell O
+her O
+
+yup O
+she O
+sure O
+is O
+. O
+
+oh O
+my O
+goodness O
+. O
+
+Goodness O
+. O
+
+Wait O
+, O
+
+wait O
+, O
+
+did O
+they O
+do O
+like O
+%uh O
+the O
+same O
+thing O
+they O
+had O
+to O
+do O
+last O
+time O
+? O
+
+No O
+. O
+
+You O
+know O
+what O
+? O
+
+That O
+same O
+thing O
+happened O
+to O
+Aliah O
+. O
+
+No O
+. O
+
+She O
+had O
+to O
+take O
+all O
+that O
+stuff O
+the O
+first B-ORDINAL
+time O
+
+but O
+then O
+the O
+second B-ORDINAL
+time O
+
+Nope O
+. O
+
+She O
+
+yup O
+. O
+
+yup O
+. O
+
+j- O
+, O
+j- O
+, O
+
+%uh O
+, O
+and O
+mom O
+said O
+, O
+
+I O
+mean O
+Jasmine B-PERSON
+was O
+about O
+two B-DATE
+months I-DATE
+old I-DATE
+
+mom O
+said O
+oh O
+goodness O
+. O
+
+%eh O
+, O
+I O
+mean O
+cause O
+Jasmine B-PERSON
+is O
+not O
+nowhere O
+like O
+my O
+other O
+little O
+babies O
+. O
+
+She O
+is O
+not O
+cuddly O
+sweet O
+. O
+
+%mm O
+, O
+%mm O
+, O
+no O
+w- O
+
+She O
+do O
+n't O
+have O
+time O
+for O
+that O
+%uh O
+. O
+
+She O
+does O
+not O
+sit O
+still O
+or O
+lay O
+still O
+for O
+you O
+to O
+change O
+her O
+Pampers B-PRODUCT
+. O
+
+This O
+little O
+girl O
+moves O
+. O
+
+I O
+mean O
+you O
+lay O
+her O
+down O
+on O
+the O
+bed O
+
+she O
+gets O
+up O
+
+and O
+she O
+runs O
+from O
+, O
+
+well O
+she O
+does O
+n't O
+run O
+
+but O
+she O
+crawls O
+real O
+fast O
+. O
+
+And O
+she O
+has O
+t- O
+aw O
+
+And O
+you O
+'re O
+like O
+okay O
+. O
+
+And O
+she O
+'s O
+not O
+a O
+cuddly O
+sweet O
+little O
+thing O
+, O
+
+she O
+, O
+
+and O
+she O
+climbs O
+up O
+the O
+stairs O
+, O
+Selema B-PERSON
+. O
+
+She O
+'s O
+seven B-DATE
+months I-DATE
+old I-DATE
+
+and O
+she O
+'s O
+climbing O
+up O
+the O
+stairs O
+. O
+
+Climbs O
+down O
+the O
+stairs O
+
+and O
+mom O
+said O
+so O
+we O
+found O
+out O
+, O
+
+when O
+did O
+we O
+find O
+out O
+Barbara B-PERSON
+was O
+pregnant O
+? O
+
+Last B-DATE
+week I-DATE
+, O
+we O
+found O
+out O
+
+and O
+mom O
+told O
+her O
+
+mom O
+said O
+, O
+Barbara B-PERSON
+, O
+Jasmine B-PERSON
+is O
+just O
+moving O
+
+she O
+'s O
+moving O
+out O
+the O
+way O
+too O
+quickly O
+
+she O
+just O
+was O
+not O
+a O
+little O
+sweet O
+little O
+cuddly O
+you O
+know O
+, O
+
+no O
+way O
+
+%uh O
+lay O
+there O
+let O
+me O
+look O
+at O
+my O
+grandmother O
+kind O
+of O
+thing O
+
+No O
+no O
+way O
+
+not O
+one O
+bit O
+. O
+
+oh O
+oh O
+Amway B-ORG
+is O
+probably O
+going O
+to O
+have O
+a O
+rule O
+though O
+I O
+could O
+just O
+
+But O
+%uh O
+, O
+yeah O
+, O
+
+it O
+'s O
+still O
+a O
+fairly O
+expensive O
+call O
+
+%uh O
+but O
+it O
+'s O
+a O
+lot O
+less O
+expensive O
+if O
+we O
+do O
+it O
+that O
+way O
+than O
+if O
+we O
+actually O
+make O
+my O
+parents O
+in O
+law O
+pay O
+it O
+, O
+
+then O
+it O
+
+the O
+Dutch B-NORP
+have O
+such O
+high O
+taxes O
+on O
+those O
+
+they O
+consider O
+it O
+a O
+luxury O
+to O
+call O
+around O
+the O
+world O
+
+so O
+they O
+tax O
+it O
+really O
+high O
+. O
+
+Anyway O
+%um O
+
+So O
+you O
+guys O
+will O
+be O
+in O
+either O
+the B-DATE
+eighteenth I-DATE
+or O
+the B-DATE
+nineteenth I-DATE
+
+and O
+you O
+'re O
+going O
+to O
+go O
+to O
+%uh O
+Amsterdam B-GPE
+. O
+
+Well O
+I O
+would O
+say O
+is O
+once O
+you O
+'re O
+at O
+a O
+hotel O
+uh-huh O
+%um O
+, O
+why O
+do O
+n't O
+you O
+call O
+me O
+at O
+work O
+and O
+let O
+me O
+know O
+where O
+you O
+are O
+, O
+
+and O
+then O
+we O
+can O
+make O
+arrangements O
+that O
+day O
+%um O
+, O
+that O
+I O
+can O
+meet O
+you O
+in O
+Amsterdam B-GPE
+. O
+
+And O
+maybe O
+I O
+'ll O
+come O
+by O
+, O
+public O
+transport O
+. O
+
+It O
+'s O
+probably O
+easier O
+for O
+me O
+to O
+come O
+by O
+public O
+transport O
+in O
+Amsterdam B-GPE
+than O
+it O
+is O
+for O
+me O
+to O
+come O
+by O
+car O
+to O
+be O
+honest O
+. O
+
+mhm O
+. O
+
+The O
+streets O
+are O
+small O
+
+and O
+there O
+'s O
+no O
+parking O
+. O
+
+So O
+I O
+probably O
+will O
+come O
+by O
+public O
+transport O
+
+but O
+I O
+do O
+n't O
+know O
+. O
+
+We O
+'ll O
+see O
+where O
+you O
+'re O
+staying O
+
+%um O
+
+and O
+there O
+'s O
+a O
+lot O
+more O
+for O
+you O
+guys O
+if O
+you O
+want O
+to O
+see O
+stuff O
+
+you O
+can O
+see O
+stuff O
+in O
+Amsterdam B-GPE
+
+and O
+%uh O
+since O
+the O
+days O
+are O
+really O
+long O
+, O
+
+I O
+mean O
+it O
+stays O
+light O
+here O
+till O
+about O
+ten B-TIME
+thirty I-TIME
+eleven B-TIME
+o'clock I-TIME
+mhm O
+. O
+at B-TIME
+night I-TIME
+. O
+
+So O
+if O
+you O
+want O
+we O
+can O
+take O
+a O
+ride O
+and O
+go O
+see O
+stuff O
+at B-TIME
+night I-TIME
+
+and O
+I O
+can O
+take O
+you O
+to O
+some O
+places O
+, O
+
+we O
+can O
+%uh O
+go O
+see O
+some O
+stuff O
+. O
+
+%um O
+, O
+depends O
+on O
+what O
+you O
+guys O
+want O
+to O
+see O
+. O
+
+So O
+you O
+guys O
+should O
+pick O
+out O
+the O
+things O
+you O
+want O
+to O
+see O
+and O
+let O
+me O
+know O
+. O
+
+okay O
+
+%um O
+and O
+I O
+'ll O
+sit O
+and O
+talk O
+with O
+Anya B-PERSON
+about O
+some O
+things O
+that O
+maybe O
+we O
+think O
+that O
+it O
+would O
+be O
+neat O
+for O
+you O
+to O
+see O
+. O
+
+So O
+if O
+you O
+do O
+n't O
+have O
+any O
+ideas O
+we O
+'ll O
+just O
+put O
+something O
+together O
+for O
+you O
+. O
+
+okay O
+. O
+
+%um O
+but O
+yeah O
+
+but O
+I O
+can O
+pick O
+you O
+up O
+th- O
+, O
+
+you O
+know O
+I O
+'ll O
+probably O
+be O
+there O
+some O
+time O
+around B-TIME
+six I-TIME
+
+and O
+we O
+can O
+like O
+do O
+a O
+quick O
+dinner O
+or O
+something O
+yeah O
+and O
+go O
+see O
+whatever O
+you O
+want O
+to O
+see O
+, O
+
+if O
+you O
+want O
+to O
+stay O
+in O
+Amsterdam B-GPE
+that O
+'s O
+fine O
+. O
+
+If O
+you O
+want O
+to O
+go O
+%uh O
+off O
+into O
+the O
+countryside O
+somewhere O
+and O
+see O
+a O
+little O
+bit O
+of O
+, O
+echte O
+Holland B-GPE
+, O
+real O
+Holland B-GPE
+and O
+we O
+can O
+do O
+that O
+too O
+. O
+
+Actually O
+I O
+'ve O
+been O
+up O
+to O
+Holland B-GPE
+before O
+. O
+
+Spent O
+about B-DATE
+two I-DATE
+weeks I-DATE
+up O
+there O
+. O
+
+yeah O
+. O
+
+So O
+%um O
+, O
+
+but O
+that O
+was O
+years B-DATE
+and I-DATE
+years I-DATE
+ago I-DATE
+. O
+
+With O
+your O
+parents O
+when O
+your O
+father O
+was O
+stationed O
+over O
+here O
+, O
+right O
+? O
+
+yeah O
+. O
+
+But O
+we O
+got O
+to O
+see O
+Den B-GPE
+Haag I-GPE
+and O
+places O
+like O
+that O
+too O
+which O
+we O
+'re O
+obviously O
+not O
+going O
+to O
+see O
+this O
+time O
+. O
+
+But O
+%um O
+
+has O
+Kim B-PERSON
+been O
+here O
+before O
+? O
+
+And O
+, O
+an- O
+
+No O
+. O
+
+oh O
+good O
+. O
+
+But O
+then O
+again O
+I O
+'m O
+not O
+sure O
+that O
+Kim B-PERSON
+would O
+be O
+interested O
+in O
+seeing O
+Shape B-FAC
+Headquarters I-FAC
+and O
+you O
+know O
+all O
+that O
+kind O
+of O
+stuff O
+. O
+those O
+military O
+things O
+. O
+
+Would O
+you O
+be O
+interested O
+in O
+seeing O
+Shape B-FAC
+Headquarters I-FAC
+again O
+. O
+
+No O
+. O
+Not O
+really O
+. O
+
+yeah O
+. O
+
+I O
+did O
+n't O
+think O
+so O
+. O
+
+Somehow O
+I O
+had O
+this O
+feeling O
+that O
+the O
+military O
+taste O
+had O
+been O
+beaten O
+out O
+of O
+you O
+. O
+
+yep O
+. O
+
+I O
+'m O
+, O
+
+the O
+mil- O
+, O
+
+I O
+ca O
+n't O
+say O
+too O
+bad O
+things O
+about O
+the O
+military O
+though O
+. O
+
+They O
+still O
+have O
+my O
+goods O
+
+and O
+they O
+'ll O
+probably O
+hold O
+them O
+hostage O
+. O
+
+And O
+they O
+own O
+my O
+body O
+and O
+soul O
+for O
+like O
+another B-DATE
+four I-DATE
+years I-DATE
+
+so O
+I O
+just O
+got O
+to O
+pray O
+that O
+they O
+
+oh O
+do O
+they O
+? O
+
+yeah O
+. O
+
+I O
+owe O
+four B-DATE
+years I-DATE
+in O
+active O
+reserve O
+time O
+. O
+
+aw O
+great O
+. O
+
+Do O
+they O
+do O
+that O
+to O
+everyone O
+? O
+
+Milo O
+, O
+get O
+out O
+of O
+there O
+
+yeah O
+-- O
+-- O
+%eh O
+everyone O
+%uh O
+who O
+has O
+n't O
+been O
+like O
+you O
+were O
+
+you O
+went O
+through O
+like O
+the O
+thirty B-CARDINAL
+six I-CARDINAL
+two B-CARDINAL
+process O
+. O
+
+mhm O
+. O
+
+So O
+you O
+do O
+n't O
+have O
+it O
+
+but O
+yeah O
+if O
+you O
+just O
+separate O
+normally O
+and O
+you O
+have O
+n't O
+served O
+at B-DATE
+least I-DATE
+eight I-DATE
+years I-DATE
+, O
+then O
+you O
+owe O
+it O
+. O
+
+And O
+that O
+'s O
+one O
+of O
+those O
+things O
+they O
+just O
+never O
+tell O
+you O
+up O
+front O
+. O
+
+No O
+. O
+
+They O
+never O
+said O
+anything O
+
+I O
+figured O
+there O
+was O
+something O
+like O
+that O
+because O
+
+And O
+I O
+was O
+in O
+the O
+inactive O
+reserves O
+the O
+entire O
+time O
+I O
+was O
+in O
+college O
+too O
+. O
+
+So O
+. O
+
+yeah O
+. O
+
+I O
+mean O
+that O
+'s O
+the O
+military O
+. O
+
+I O
+have O
+my O
+discharge O
+papers O
+and O
+everything O
+
+uh-huh O
+. O
+
+and O
+I O
+'ve O
+said O
+that O
+yeah O
+I O
+will O
+give O
+a O
+urine O
+sample O
+or O
+a O
+blood O
+sample O
+if O
+they O
+call O
+me O
+back O
+for O
+those O
+, O
+but O
+they O
+'re O
+going O
+to O
+have O
+to O
+pay O
+my O
+trip O
+back O
+to O
+the B-GPE
+states I-GPE
+. O
+because O
+there O
+'s O
+no O
+bases O
+in O
+Holland B-GPE
+and O
+I O
+'m O
+not O
+going O
+to O
+pay O
+out O
+of O
+my O
+own O
+expenses O
+to O
+go O
+to O
+Germany B-GPE
+or O
+something O
+for O
+them O
+. O
+
+If O
+they O
+want O
+me O
+they O
+can O
+pay O
+, O
+
+bring O
+me O
+back O
+active O
+duty O
+and O
+pay O
+me O
+for O
+the O
+day O
+if O
+they O
+'re O
+going O
+to O
+drag O
+me O
+off O
+somewhere O
+. O
+
+But O
+%uh O
+, O
+first B-ORDINAL
+they O
+have O
+to O
+find O
+me O
+. O
+
+yeah O
+, O
+that O
+'s O
+the O
+other O
+
+it O
+was O
+i- O
+, O
+
+if O
+you O
+'re O
+in O
+another O
+country O
+I O
+mean O
+and O
+you O
+'re O
+not O
+planning O
+on O
+coming O
+back O
+to O
+the B-GPE
+U I-GPE
+S I-GPE
+what O
+are O
+they O
+going O
+to O
+do O
+even O
+if O
+you O
+do O
+n't O
+. O
+
+yeah O
+. O
+
+Well O
+I O
+mean O
+I O
+'m O
+still O
+American B-NORP
+citizen O
+
+and O
+I O
+still O
+would O
+like O
+to O
+be O
+welcome O
+in O
+my O
+own O
+country O
+. O
+
+Although O
+g- O
+
+%uh O
+I O
+mean O
+if O
+they O
+denied O
+my O
+citizenship O
+and O
+I O
+became O
+a O
+citizen O
+here O
+I O
+probably O
+would O
+n't O
+be O
+a O
+horror O
+either O
+, O
+
+but O
+%uh O
+yeah O
+
+right O
+now O
+I O
+mean O
+I O
+do O
+want O
+to O
+keep O
+my O
+American B-NORP
+citizenship O
+
+so O
+. O
+
+I O
+kind O
+of O
+want O
+to O
+
+Are O
+you O
+going O
+to O
+become O
+a O
+dual O
+citizen O
+? O
+
+What O
+'s O
+that O
+? O
+
+Are O
+you O
+going O
+to O
+try O
+and O
+become O
+a O
+dual O
+citizen O
+? O
+
+Have O
+dual O
+citizenship O
+? O
+
+You O
+ca O
+n't O
+do O
+that O
+, O
+
+%um O
+, O
+the O
+only O
+way O
+to O
+be O
+a O
+dual O
+citizen O
+is O
+if O
+you O
+'re O
+born O
+in O
+a O
+foreign O
+country O
+
+like O
+if O
+I O
+were O
+born O
+in O
+Holland B-GPE
+and O
+then O
+had O
+American B-NORP
+parents O
+. O
+Then O
+I O
+could O
+be O
+a O
+dual O
+citizen O
+. O
+
+But O
+you O
+ca O
+n't O
+
+If O
+I O
+would O
+to O
+ask O
+to O
+become O
+a O
+citizen O
+in O
+Holland B-GPE
+I O
+would O
+automatically O
+lose O
+my O
+American B-NORP
+citizenship O
+. O
+
+As O
+far O
+as O
+the O
+Americans B-NORP
+are O
+concerned O
+, O
+yeah O
+. O
+
+yeah O
+. O
+
+The O
+Dutch B-NORP
+could O
+care O
+less O
+. O
+
+The O
+Dutch B-NORP
+would O
+say O
+fine O
+
+want O
+to O
+be O
+a O
+dual O
+citizen O
+, O
+
+that O
+'s O
+fine O
+, O
+
+but O
+the O
+Americans B-NORP
+as O
+soon O
+as O
+you O
+ask O
+for O
+another O
+citizenship O
+that O
+act O
+of O
+asking O
+for O
+it O
+takes O
+away O
+your O
+American B-NORP
+citizenship O
+. O
+
+I O
+mean O
+it O
+'s O
+kind O
+of O
+stupid O
+. O
+
+yeah O
+. O
+
+So O
+I O
+'m O
+an O
+expatriot O
+. O
+
+An O
+American B-NORP
+expatriot O
+. O
+
+An O
+American B-NORP
+living O
+abroad O
+. O
+
+I O
+still O
+have O
+to O
+file O
+a O
+tax O
+return O
+. O
+
+Do O
+you O
+? O
+
+yeah O
+. O
+
+But O
+my O
+first B-ORDINAL
+seventy B-MONEY
+five I-MONEY
+thousand I-MONEY
+dollars I-MONEY
+worth O
+of O
+income O
+is O
+tax O
+free O
+. O
+
+Good O
+grief O
+. O
+
+As O
+long O
+as O
+I O
+do O
+n't O
+bring O
+it O
+back O
+to O
+the O
+states O
+. O
+
+Good O
+grief O
+. O
+
+I B-ORG
+R I-ORG
+S I-ORG
+for O
+you O
+, O
+%huh O
+? O
+
+yeah O
+. O
+
+oh O
+they O
+want O
+their O
+share O
+. O
+
+They O
+want O
+their O
+piece O
+of O
+meat O
+. O
+
+But O
+all O
+foreign O
+taxes O
+are O
+deductible O
+, O
+
+and O
+my O
+taxes O
+here O
+are O
+fifty B-PERCENT
+percent I-PERCENT
+of O
+income O
+. O
+
+So O
+the O
+taxes O
+here O
+are O
+so O
+much O
+higher O
+that O
+, O
+yeah O
+I O
+would O
+never O
+have O
+to O
+worry O
+about O
+it O
+. O
+
+Unless O
+you O
+became O
+C O
+E O
+O O
+of O
+the O
+company O
+then O
+maybe O
+like O
+a B-MONEY
+thousand I-MONEY
+dollars I-MONEY
+would O
+be O
+taxable O
+, O
+right O
+? O
+
+yeah O
+. O
+
+Somehow O
+it O
+raises O
+a O
+small O
+amount O
+. O
+
+the O
+problem O
+'s O
+going O
+to O
+%uh O
+be O
+Anya B-PERSON
+'s O
+American B-NORP
+salary O
+is O
+taxable O
+here O
+and O
+at O
+fifty B-PERCENT
+percent I-PERCENT
+
+so O
+we O
+'re O
+going O
+to O
+owe O
+some O
+money O
+to O
+the B-ORG
+Dutch I-ORG
+government I-ORG
+on O
+her O
+salary O
+. O
+
+aw O
+. O
+
+Some O
+amount O
+that O
+has O
+to O
+be O
+deducted O
+a O
+certain O
+amount O
+
+and O
+the O
+amount O
+we O
+pay O
+the B-ORG
+American I-ORG
+government I-ORG
+is O
+deductible O
+, O
+
+but O
+we O
+'ll O
+still O
+owe O
+some O
+taxes O
+. O
+
+Th- O
+, O
+
+see O
+I O
+do O
+n't O
+know O
+how O
+it O
+works O
+. O
+
+we O
+'re O
+going O
+to O
+be O
+in O
+need O
+of O
+some O
+sort O
+of O
+accountant O
+do O
+it O
+cause O
+I O
+have O
+no O
+clue O
+how O
+that O
+all O
+works O
+. O
+
+They O
+do O
+n't O
+have O
+the O
+Quicken B-PRODUCT
+Dutch B-LANGUAGE
+version O
+? O
+
+yeah O
+. O
+
+%ah O
+, O
+you O
+know O
+I O
+would O
+n't O
+trust O
+it O
+because O
+it O
+'s O
+so O
+complicated O
+with O
+this O
+international O
+garbage O
+or O
+else O
+the B-PRODUCT
+Turbo I-PRODUCT
+Tax I-PRODUCT
+with O
+the O
+Dutch B-LANGUAGE
+modules O
+. O
+that O
+I O
+just O
+would O
+n't O
+trust O
+it O
+. O
+
+I O
+do O
+n't O
+know O
+, O
+%eh O
+. O
+
+yeah O
+. O
+
+So O
+complicated O
+when O
+you O
+'re O
+dealing O
+with O
+a O
+Dutch B-LANGUAGE
+tax O
+form O
+. O
+
+Anya B-PERSON
+had O
+to O
+read O
+it O
+
+and O
+Anya B-PERSON
+and O
+her O
+father O
+did O
+n't O
+understand O
+the O
+damn O
+thing O
+. O
+
+How O
+am O
+I O
+supposed O
+to O
+understand O
+it O
+? O
+
+I O
+'m O
+really O
+looking O
+forward O
+to O
+moving O
+to O
+Oregon B-GPE
+and O
+dealing O
+with O
+, O
+
+Oregon B-GPE
+you O
+pay O
+state O
+tax O
+
+Washington B-GPE
+you O
+do O
+n't O
+. O
+
+I O
+'m O
+looking O
+forward O
+to O
+that O
+cause O
+%uh O
+
+yeah O
+
+but O
+You O
+'ll O
+be O
+a O
+student O
+
+so O
+you O
+, O
+
+I O
+mean O
+you O
+'re O
+
+what O
+is O
+your O
+income O
+? O
+
+oh O
+, O
+well O
+
+See O
+I O
+think O
+y- O
+, O
+%um O
+, O
+
+it O
+'ll O
+probably O
+be O
+about B-MONEY
+five I-MONEY
+thousand I-MONEY
+dollars I-MONEY
+the B-DATE
+portion I-DATE
+of I-DATE
+this I-DATE
+year I-DATE
+that O
+I O
+'m O
+in O
+Oregon B-GPE
+
+and O
+then O
+next B-DATE
+year I-DATE
+it O
+'ll O
+be O
+eleven B-CARDINAL
+thousand I-CARDINAL
+. O
+
+yeah O
+. O
+
+But O
+I O
+mean O
+you O
+'re O
+below O
+the O
+poverty O
+line O
+at O
+that O
+level O
+. O
+
+yeah O
+. O
+
+So O
+I O
+mean O
+any O
+income O
+that O
+y- O
+
+Well O
+
+But O
+then O
+I O
+'ve O
+already O
+made O
+say O
+like B-CARDINAL
+fifteen I-CARDINAL
+thousand I-CARDINAL
+or O
+whatever O
+here O
+in O
+Washington B-GPE
+
+but O
+
+That O
+should O
+be O
+non O
+taxable O
+out O
+of O
+state O
+income O
+. O
+
+It O
+should O
+
+but O
+you O
+know O
+it O
+'s O
+not O
+going O
+to O
+be O
+a O
+fun O
+tax O
+return O
+year B-DATE
+. O
+
+I O
+had O
+that O
+when O
+I O
+went O
+into O
+the O
+military O
+. O
+
+But O
+then O
+again O
+. O
+
+I O
+had O
+Kans- O
+, O
+
+I O
+had O
+to O
+file O
+three B-CARDINAL
+taxes O
+. O
+
+I O
+had O
+to O
+file O
+Georgia B-GPE
+, O
+Kansas B-GPE
+yeah O
+and O
+then O
+my O
+federal O
+. O
+
+So O
+. O
+
+Well O
+, O
+%um O
+actually O
+I O
+think O
+this O
+phone O
+call O
+'s O
+just O
+about O
+to O
+end O
+cause O
+it O
+'s O
+only O
+half B-TIME
+an I-TIME
+hour I-TIME
+, O
+
+but O
+%um O
+
+So O
+let O
+'s O
+see O
+. O
+
+I O
+'ll O
+give O
+you O
+a O
+call O
+when O
+we O
+arrive O
+in O
+h- O
+, O
+
+or O
+maybe O
+I O
+'ll O
+just O
+call O
+you O
+when O
+we O
+get O
+in O
+Holland B-GPE
+just O
+to O
+let O
+you O
+know O
+we O
+'re O
+there O
+, O
+
+so O
+if O
+we O
+get O
+in O
+the B-DATE
+eighteenth I-DATE
+or O
+the B-DATE
+nineteenth I-DATE
+and O
+then O
+call O
+you O
+back O
+%um O
+when O
+we O
+get O
+to O
+a O
+hotel O
+or O
+something O
+like O
+that O
+. O
+
+okay O
+that O
+'s O
+a O
+great O
+idea O
+. O
+
+as O
+soon O
+as O
+you O
+get O
+into O
+Holland B-GPE
+and O
+get O
+yourself O
+settled O
+you O
+can O
+call O
+me O
+
+and O
+%uh O
+if O
+it O
+'s O
+at O
+night B-TIME
+, O
+just O
+call O
+Anya B-PERSON
+'s O
+parents O
+
+okay O
+so O
+
+and O
+remember O
+that O
+if O
+you O
+dial O
+in O
+Holland B-GPE
+you O
+need O
+to O
+add O
+a O
+zero B-CARDINAL
+
+so O
+like O
+right O
+now O
+okay O
+it O
+'s O
+one B-CARDINAL
+eight B-CARDINAL
+one B-CARDINAL
+zero B-CARDINAL
+area O
+code O
+. O
+
+If O
+you O
+dial O
+in O
+Holland B-GPE
+, O
+it O
+'s O
+zero B-CARDINAL
+one B-CARDINAL
+eight B-CARDINAL
+one B-CARDINAL
+zero B-CARDINAL
+. O
+okay O
+in O
+Holland B-GPE
+
+and O
+then O
+yeah O
+you O
+can O
+just O
+call O
+up O
+
+if O
+it O
+'s O
+during O
+the B-TIME
+work I-TIME
+hours I-TIME
+, O
+fine O
+, O
+call O
+me O
+at O
+work O
+. O
+
+If O
+not O
+, O
+call O
+Anya B-PERSON
+'s O
+parents O
+if O
+you O
+do O
+n't O
+have O
+a O
+new O
+phone O
+number O
+for O
+me O
+. O
+
+And O
+if O
+you O
+do O
+, O
+I O
+'ll O
+send O
+it O
+by O
+email O
+okay O
+if O
+I O
+get O
+it O
+before B-DATE
+this I-DATE
+weekend I-DATE
+
+we O
+'ll O
+email O
+you O
+something O
+
+but O
+if O
+you O
+do O
+n't O
+get O
+email O
+then O
+just O
+call O
+Anya B-PERSON
+'s O
+parents O
+
+If O
+we O
+have O
+a O
+phone O
+by O
+then O
+, O
+they O
+'ll O
+be O
+able O
+to O
+give O
+you O
+the O
+number O
+
+okay O
+
+and O
+just O
+remember O
+to O
+ask O
+for O
+her O
+mother O
+. O
+
+and O
+it O
+'s O
+Goode B-PERSON
+, O
+right O
+
+Bode B-PERSON
+
+Bode B-PERSON
+
+Bode B-PERSON
+as O
+in O
+abode O
+
+abode O
+
+minus O
+the O
+A O
+
+okay O
+
+great O
+
+and O
+
+yeah O
+
+and O
+I O
+think O
+%uh O
+%uh O
+it O
+'s O
+not O
+Frau O
+
+%uh O
+%ah O
+%uh O
+It O
+'s O
+Mifrau O
+
+is O
+
+it O
+'s O
+Frau O
+in O
+German B-LANGUAGE
+
+it O
+'s O
+Frau O
+
+mhm O
+
+and O
+then O
+Dutch B-LANGUAGE
+it O
+'s O
+Mifrau O
+
+I O
+'ll O
+probably O
+never O
+remember O
+that O
+
+so O
+hope O
+they O
+wo O
+n't O
+be O
+offended O
+. O
+
+nah O
+do O
+n't O
+worry O
+about O
+it O
+. O
+
+You O
+can O
+just O
+call O
+her O
+Missus O
+
+you O
+can O
+just O
+call O
+her O
+Missus O
+and O
+speak O
+English B-LANGUAGE
+to O
+her O
+. O
+
+she O
+understands O
+
+just O
+talk O
+slowly O
+and O
+clearly O
+. O
+
+okay O
+
+and O
+once O
+you O
+'re O
+in O
+Holland B-GPE
+the O
+line O
+will O
+be O
+really O
+clear O
+. O
+
+I O
+mean O
+the O
+phones O
+here O
+are O
+pretty O
+good O
+. O
+once O
+you O
+'re O
+in O
+the O
+country O
+. O
+
+It O
+'s O
+just O
+these O
+to O
+America B-GPE
+
+it O
+'s O
+always O
+kind O
+of O
+iffy O
+
+I O
+just O
+got O
+back O
+from O
+the O
+gym O
+. O
+
+oh O
+good O
+. O
+
+uh-huh O
+. O
+
+How O
+'s O
+it O
+going O
+? O
+
+oh O
+pretty O
+well O
+. O
+
+It O
+was O
+really O
+crowded O
+today B-DATE
+. O
+
+yeah O
+. O
+
+I O
+kind O
+of O
+assumed O
+everyone O
+would O
+be O
+at O
+the O
+shore O
+. O
+
+uh-huh O
+. O
+
+I O
+was O
+wrong O
+. O
+
+Well O
+it O
+'s O
+the B-DATE
+middle I-DATE
+of I-DATE
+the I-DATE
+week I-DATE
+or O
+whatever O
+
+so O
+. O
+
+But O
+it O
+'s O
+the B-DATE
+fourth I-DATE
+of I-DATE
+July I-DATE
+. O
+
+%mm O
+. O
+
+So O
+. O
+
+yeah O
+. O
+
+People O
+have O
+to O
+work O
+tomorrow B-DATE
+. O
+
+Do O
+you O
+have O
+to O
+work O
+tomorrow B-DATE
+? O
+
+yeah O
+. O
+
+Did O
+you O
+have O
+off O
+yesterday B-DATE
+? O
+
+Yes O
+. O
+
+oh O
+that O
+'s O
+good O
+. O
+
+And O
+I O
+was O
+paid O
+too O
+. O
+
+oh O
+. O
+
+Is O
+it O
+paid O
+today B-DATE
+? O
+
+No O
+. O
+
+oh O
+. O
+
+But O
+%uh O
+
+yeah O
+, O
+
+so O
+the O
+gym O
+'s O
+going O
+well O
+. O
+
+oh O
+. O
+
+But O
+I O
+still O
+need O
+to O
+go O
+more O
+often O
+. O
+
+Well O
+how O
+often O
+are O
+you O
+going O
+? O
+
+Only O
+four O
+days O
+a O
+week O
+. O
+
+. O
+
+yeah O
+. O
+
+Got O
+to O
+get O
+that O
+up O
+to O
+five B-CARDINAL
+. O
+
+%mm O
+. O
+
+But O
+, O
+I O
+do O
+n't O
+really O
+like O
+going O
+with O
+Anne B-PERSON
+Marie I-PERSON
+because O
+she O
+does O
+n't O
+like O
+to O
+stay O
+very O
+long O
+. O
+
+Why O
+? O
+
+I O
+do O
+n't O
+know O
+. O
+
+She O
+kind O
+of O
+, O
+
+well O
+unfortunately O
+for O
+some O
+reason O
+she O
+'s O
+not O
+like O
+into O
+cardio O
+vascular O
+. O
+
+So O
+when O
+I O
+'m O
+still O
+riding O
+the O
+bike O
+she O
+'s O
+completely O
+finished O
+her O
+weight O
+lifting O
+routine O
+. O
+
+mhm O
+. O
+
+And O
+like O
+I O
+have O
+n't O
+even O
+started O
+mine O
+. O
+mhm O
+. O
+You O
+know O
+
+and O
+I O
+kind O
+of O
+hinted O
+to O
+her O
+that O
+really O
+the O
+only O
+way O
+to O
+lose O
+weight O
+is O
+cardio O
+vascular O
+. O
+mhm O
+. O
+It O
+'s O
+true O
+. O
+And O
+that O
+lifting O
+the O
+weights O
+wo O
+n't O
+lose O
+weight O
+. O
+
+%mm O
+%mm O
+. O
+
+You O
+wo O
+n't O
+lose O
+it O
+, O
+you O
+know O
+, O
+
+but O
+
+No O
+
+I O
+mean O
+you O
+might O
+lose O
+some O
+
+but O
+that O
+'s O
+only O
+when O
+yo- O
+. O
+
+For O
+a O
+woman O
+who O
+is O
+lifting O
+not O
+that O
+much O
+I O
+do O
+n't O
+think O
+yeah O
+. O
+You O
+would O
+. O
+
+I O
+mean O
+yeah O
+
+I O
+mean O
+the O
+only O
+thing O
+is O
+%um O
+just O
+getting O
+your O
+heart O
+rate O
+up O
+for O
+extended O
+periods O
+of O
+time O
+. O
+
+yeah O
+, O
+
+So O
+I O
+do O
+n't O
+know O
+
+maybe O
+she O
+'ll O
+catch O
+on O
+soon O
+. O
+
+You O
+do O
+burn O
+a O
+lot O
+of O
+calories O
+an O
+hour O
+though O
+, O
+lifting O
+weights O
+. O
+
+uh-huh O
+. O
+
+But O
+%uh O
+
+yeah O
+
+I O
+mean O
+I O
+do O
+n't O
+think O
+you O
+'re O
+going O
+to O
+lose O
+that O
+much O
+. O
+
+and O
+also O
+lifting O
+weights O
+at O
+Bally B-FAC
+'s I-FAC
+means O
+you O
+'re O
+standing O
+on O
+line O
+for O
+as O
+much O
+time O
+as O
+you O
+'re O
+actually O
+lifting O
+. O
+
+Really O
+. O
+
+yeah O
+. O
+
+That O
+'s O
+too O
+bad O
+. O
+
+yeah O
+. O
+
+So O
+is O
+it O
+really O
+overcrowded O
+? O
+
+Well O
+, O
+I O
+mean O
+obviously O
+since O
+I O
+work O
+I O
+ca O
+n't O
+get O
+there O
+until O
+about B-TIME
+six I-TIME
+o'clock I-TIME
+at O
+night O
+which O
+is O
+when O
+everyone O
+else O
+gets O
+there O
+. O
+
+mhm O
+. O
+
+mhm O
+. O
+
+But O
+I O
+'m O
+sure O
+for O
+people O
+who O
+go O
+in O
+the B-TIME
+daytime I-TIME
+it O
+'s O
+probably O
+dead O
+. O
+yeah O
+. O
+You O
+know O
+
+and O
+%um O
+, O
+like O
+when O
+I O
+go O
+Saturday B-TIME
+and I-TIME
+Sunday I-TIME
+mornings I-TIME
+it O
+'s O
+totally O
+dead O
+. O
+
+mhm O
+. O
+
+So O
+
+But O
+you O
+know O
+the B-TIME
+weeknights I-TIME
+is O
+pretty O
+crazy O
+. O
+
+yeah O
+. O
+
+yeah O
+
+I O
+found O
+a O
+gym O
+yesterday B-DATE
+here O
+that O
+'s O
+only O
+eight B-MONEY
+pounds I-MONEY
+a O
+month O
+which O
+is O
+like O
+twelve B-MONEY
+dollars I-MONEY
+, O
+twelve B-CARDINAL
+fifty B-CARDINAL
+
+oh O
+yeah O
+. O
+
+Wow O
+. O
+
+yeah O
+. O
+
+It O
+'s O
+at O
+the O
+hospital O
+nearby O
+. O
+
+Well O
+that O
+'s O
+a O
+deal O
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+So O
+uh-huh O
+. O
+I O
+think O
+%um O
+tonight B-TIME
+Charlie B-PERSON
+and O
+I O
+are O
+going O
+to O
+go O
+over O
+and O
+join O
+up O
+. O
+
+Even O
+Charlie B-PERSON
+'s O
+going O
+to O
+join O
+? O
+
+No O
+, O
+
+but O
+it O
+has O
+to O
+be O
+debited O
+from O
+a O
+bank O
+account O
+so O
+it O
+'s O
+got O
+to O
+be O
+debited O
+from O
+his O
+. O
+
+yeah O
+. O
+
+In O
+your O
+letter O
+you O
+said O
+that O
+he O
+eats O
+constantly O
+. O
+
+oh O
+my O
+god O
+. O
+
+Really O
+? O
+
+Alice B-PERSON
+, O
+I O
+'ve O
+never O
+seen O
+anybody O
+eat O
+as O
+much O
+as O
+he O
+does O
+
+and O
+he O
+'s O
+so O
+skinny O
+. O
+
+mhm O
+. O
+
+I O
+mean O
+the O
+amount O
+of O
+cereal O
+he O
+eats O
+like O
+between O
+meals O
+and O
+after O
+meals O
+
+yeah O
+. O
+
+and O
+we O
+go O
+through O
+a O
+box O
+of O
+cereal O
+every B-DATE
+two I-DATE
+days I-DATE
+. O
+
+Really O
+? O
+
+yeah O
+. O
+
+Wow O
+. O
+
+He O
+eats O
+at O
+least O
+like O
+four B-CARDINAL
+of O
+cereal O
+a O
+day O
+like O
+in O
+addition O
+to O
+like O
+meals O
+. O
+
+uh-huh O
+
+And O
+when O
+he O
+goes O
+to O
+work O
+he O
+brings O
+four B-CARDINAL
+sandwiches O
+with O
+him O
+, O
+uh-huh O
+. O
+a O
+bag O
+of O
+potato O
+chips O
+uh-huh O
+. O
+%um O
+you O
+know O
+and O
+then O
+little O
+sweetie O
+things O
+chocolates O
+and O
+**cakies** O
+and O
+stuff O
+like O
+that O
+. O
+
+uh-huh O
+
+And O
+then O
+you O
+know O
+before O
+he O
+leaves O
+every O
+morning O
+he O
+has O
+like O
+two B-CARDINAL
+fried O
+eggs O
+mhm O
+on O
+toast O
+with O
+cheese O
+%um O
+vegetarian O
+sausages O
+%um O
+and O
+like O
+fruit O
+
+and O
+oh O
+my O
+god O
+it O
+'s O
+just O
+crazy O
+. O
+
+mhm O
+. O
+
+It O
+'s O
+crazy O
+how O
+much O
+he O
+eats O
+. O
+
+He O
+was O
+probably O
+starving O
+when O
+he O
+was O
+here O
+. O
+
+yeah O
+. O
+
+I O
+think O
+what O
+we O
+got O
+to O
+do O
+is O
+just O
+when O
+he O
+comes O
+just O
+have O
+lots O
+of O
+cereal O
+. O
+
+He O
+likes O
+Cocoa B-PRODUCT
+Pops I-PRODUCT
+. O
+
+oh O
+boy O
+. O
+
+Wow O
+. O
+
+That O
+'s O
+pretty O
+crazy O
+. O
+
+yeah O
+. O
+
+It O
+'s O
+all O
+about O
+being O
+a O
+blue O
+collar O
+man O
+. O
+
+I O
+guess O
+so O
+. O
+
+They O
+'re O
+the O
+ones O
+who O
+can O
+eat O
+all B-TIME
+day I-TIME
+. O
+
+Really O
+? O
+
+Well O
+I O
+mean O
+he O
+does O
+work O
+his O
+ass O
+off O
+
+so O
+
+yeah O
+. O
+
+But O
+%uh O
+291.01_291.28_B: O
+%hm O
+. O
+
+%hm O
+. O
+
+So O
+, O
+I O
+assume O
+it O
+'s O
+hard O
+for O
+you O
+not O
+to O
+eat O
+as O
+much O
+as O
+he O
+does O
+. O
+
+No O
+. O
+
+I O
+learned O
+quick O
+fast O
+in O
+a O
+hurry O
+because O
+I O
+'ve O
+gained O
+so O
+much O
+weight O
+. O
+
+oh O
+really O
+? O
+
+yeah O
+. O
+
+Actually O
+in O
+the B-DATE
+first I-DATE
+week I-DATE
+I O
+was O
+here O
+-- O
+mhm O
+. O
+-- O
+I O
+gained O
+a O
+lot O
+
+so O
+. O
+
+Well O
+it O
+'s O
+hard O
+to O
+you O
+know O
+not O
+eat O
+when O
+somebody O
+else O
+is O
+eating O
+. O
+
+Well O
+I O
+'m O
+figuring O
+it O
+out O
+fast O
+because O
+-- O
+okay O
+-- O
+with O
+not O
+working O
+out O
+and O
+all O
+yeah O
+. O
+it O
+'s O
+pretty O
+miserable O
+my O
+crunch O
+tape O
+. O
+
+%mm O
+. O
+
+So O
+I O
+called O
+this O
+woman O
+today B-DATE
+
+and O
+%um O
+, O
+she O
+'s O
+a O
+dressmaker O
+
+and O
+we O
+'re O
+going O
+to O
+go O
+see O
+her O
+next B-DATE
+Thursday I-DATE
+and O
+talk O
+about O
+her O
+making O
+my O
+wedding O
+dress O
+. O
+
+Slate O
+green O
+. O
+
+yeah O
+. O
+
+%uh O
+. O
+
+See O
+, O
+that O
+way O
+I O
+can O
+have O
+exactly O
+what O
+I O
+want O
+. O
+
+Exactly O
+. O
+
+And O
+it O
+'s O
+only O
+going O
+to O
+be O
+about B-MONEY
+two I-MONEY
+hundred I-MONEY
+and I-MONEY
+fifty I-MONEY
+pounds I-MONEY
+which O
+is O
+about B-MONEY
+three I-MONEY
+hundred I-MONEY
+and I-MONEY
+fifty I-MONEY
+dollars I-MONEY
+. O
+
+uh-huh O
+. O
+
+So O
+it O
+'s O
+pretty O
+good O
+I O
+mean O
+comparatively O
+. O
+
+yeah O
+. O
+
+And O
+it O
+'ll O
+be O
+exactly O
+what O
+I O
+want O
+
+and O
+it O
+'ll O
+look O
+good O
+on O
+me O
+, O
+you O
+know O
+like O
+fit O
+me O
+, O
+Sure O
+. O
+which O
+is O
+necessary O
+at O
+the O
+moment O
+because O
+I O
+'m O
+plump O
+
+so O
+. O
+
+mhm O
+. O
+
+Now O
+, O
+daddy O
+got O
+%um O
+the O
+invitations O
+together O
+for O
+you O
+today B-DATE
+. O
+
+uh-huh O
+. O
+
+And O
+in O
+it O
+I O
+put O
+, O
+%um O
+paint O
+samples O
+from O
+Sherwin B-ORG
+Williams I-ORG
+uh-huh O
+. O
+of O
+all O
+the O
+different O
+like O
+shades O
+of O
+what O
+color O
+I O
+thought O
+you O
+might O
+be O
+thinking O
+of O
+for O
+the O
+bride O
+'s O
+maids O
+. O
+
+uh-huh O
+. O
+
+oh O
+I O
+already O
+told O
+them O
+all O
+black O
+
+but O
+dad O
+does O
+n't O
+want O
+black O
+he O
+said O
+. O
+
+Mom O
+and O
+dad O
+wo O
+n't O
+have O
+black O
+. O
+
+They O
+do O
+n't O
+want O
+black O
+? O
+
+They O
+'re O
+really O
+opposed O
+to O
+it O
+. O
+
+Did O
+you O
+call O
+Sharon B-PERSON
+and O
+tell O
+her O
+that O
+? O
+
+No O
+. O
+
+Could O
+you O
+do O
+that O
+? O
+
+okay O
+. O
+
+Could O
+you O
+call O
+Kate B-PERSON
+and O
+tell O
+her O
+that O
+? O
+
+yeah O
+. O
+
+Just O
+say O
+you O
+know O
+my O
+parents O
+are O
+really O
+opposed O
+to O
+black O
+. O
+
+yeah O
+. O
+
+They O
+wo O
+n't O
+buy O
+me O
+a O
+black O
+dress O
+. O
+
+They O
+wo O
+n't O
+? O
+
+Here O
+wait O
+. O
+
+Let O
+me O
+look O
+for O
+my O
+phonebook O
+. O
+
+No O
+. O
+
+Never O
+mind O
+. O
+
+I O
+can O
+just O
+open O
+the O
+thing O
+here O
+. O
+
+Now O
+wait O
+. O
+
+What O
+, O
+
+god O
+we O
+got O
+so O
+much O
+furniture O
+in O
+this O
+tiny O
+apartment O
+. O
+
+It O
+'s O
+crazy O
+. O
+
+There O
+'s O
+drawers O
+everywhere O
+, O
+to O
+figure O
+out O
+where O
+everything O
+is O
+. O
+
+okay O
+. O
+
+Let O
+me O
+give O
+you O
+Kate B-PERSON
+'s O
+phone O
+number O
+. O
+
+You O
+can O
+just O
+leave O
+a O
+message O
+. O
+
+okay O
+. O
+
+okay O
+. O
+
+two B-CARDINAL
+one B-CARDINAL
+, O
+two B-CARDINAL
+one B-CARDINAL
+two B-CARDINAL
+uh-huh O
+. O
+two B-CARDINAL
+two B-CARDINAL
+six B-CARDINAL
+uh-huh O
+. O
+O B-CARDINAL
+one B-CARDINAL
+two B-CARDINAL
+five B-CARDINAL
+. O
+
+okay O
+. O
+
+okay O
+. O
+
+I O
+'ll O
+do O
+that O
+. O
+
+But O
+%uh O
+, O
+
+yeah O
+, O
+
+apparently O
+like O
+at O
+Lisa B-PERSON
+Manachi I-PERSON
+'s I-PERSON
+wedding O
+like O
+the B-TIME
+whole I-TIME
+night I-TIME
+people O
+were O
+talking O
+about O
+how O
+bad O
+the O
+black O
+dresses O
+were O
+. O
+
+Really O
+? O
+
+Like O
+everyone O
+at O
+mom O
+and O
+dad O
+'s O
+table O
+. O
+
+yeah O
+. O
+
+Who O
+was O
+at O
+mom O
+and O
+dad O
+'s O
+table O
+? O
+
+Weirdo O
+
+just O
+all O
+of O
+Lorraine B-PERSON
+'s O
+friends O
+. O
+mhm O
+. O
+Who O
+you O
+know O
+of O
+course O
+most O
+of O
+them O
+mom O
+and O
+dad O
+had O
+at O
+least O
+met O
+once O
+before O
+. O
+
+mhm O
+. O
+
+But O
+%uh O
+
+yeah O
+, O
+
+and O
+Adele B-PERSON
+still O
+talks O
+about O
+the O
+black O
+dress O
+. O
+
+What O
+? O
+
+How O
+hideous O
+they O
+were O
+. O
+
+Adele B-PERSON
+was O
+n't O
+at O
+Lisa B-PERSON
+Manachi I-PERSON
+'s I-PERSON
+. O
+
+Adele B-PERSON
+went O
+to O
+the O
+mass O
+wedding O
+. O
+
+She O
+did O
+? O
+
+uh-huh O
+. O
+
+oh O
+. O
+
+And O
+she O
+wanted O
+me O
+to O
+take O
+her O
+
+and O
+I O
+refused O
+to O
+go O
+
+and O
+she O
+got O
+mad O
+. O
+
+Really O
+? O
+
+Well O
+I O
+said O
+I O
+would O
+not O
+feel O
+comfortable O
+going O
+. O
+
+I O
+was O
+not O
+invited O
+. O
+mhm O
+. O
+You O
+know O
+
+and O
+mom O
+and O
+dad O
+were O
+like O
+well O
+you O
+know O
+a O
+wedding O
+that O
+'s O
+a O
+mass O
+is O
+open O
+to O
+everyone O
+. O
+
+I O
+was O
+like O
+well O
+that O
+'s O
+fine O
+
+but O
+I O
+would O
+not O
+feel O
+comfortable O
+going O
+. O
+
+mhm O
+. O
+
+I O
+think O
+that O
+would O
+be O
+obnoxious O
+
+and O
+I O
+think O
+they O
+would O
+then O
+feel O
+guilty O
+for O
+not O
+inviting O
+me O
+. O
+
+Right O
+. O
+
+To O
+-- O
+-- O
+you O
+know O
+the O
+other O
+thing O
+, O
+the O
+reception O
+. O
+
+I O
+just O
+would O
+n't O
+go O
+. O
+
+%mm O
+. O
+
+So O
+they O
+had O
+to O
+take O
+it O
+down O
+and O
+drive O
+her O
+home O
+. O
+
+%mm O
+. O
+
+So O
+they O
+'re O
+always O
+kind O
+of O
+pissy O
+at O
+me O
+. O
+
+%mm O
+. O
+That O
+'s O
+okay O
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+I O
+mean O
+I O
+'ve O
+been O
+thinking O
+about O
+it O
+
+and O
+the O
+black O
+'s O
+not O
+going O
+to O
+be O
+so O
+hot O
+you O
+know O
+
+but O
+
+mhm O
+. O
+
+yeah O
+. O
+
+Apparently O
+they O
+were O
+also O
+carrying O
+lillies O
+which O
+is O
+kind O
+of O
+goofy O
+. O
+
+yeah O
+. O
+
+Well O
+I O
+guess O
+she O
+did O
+that O
+because O
+someone O
+suggested O
+that O
+to O
+her O
+because O
+you O
+know O
+the O
+lillies O
+the O
+symbol O
+of O
+the O
+virgin O
+Mary B-PERSON
+. O
+
+mhm O
+. O
+
+White O
+lillies O
+? O
+
+White O
+lillies O
+and O
+black O
+dresses O
+. O
+
+%mm O
+, O
+my O
+goodness O
+. O
+
+That O
+'s O
+funny O
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+Adele B-PERSON
+was O
+carrying O
+on O
+that O
+she O
+thought O
+she O
+was O
+at O
+a O
+funeral O
+
+and O
+she O
+had O
+to O
+keep O
+reminding O
+herself O
+. O
+
+%mm O
+. O
+
+So O
+now O
+you O
+think O
+my O
+wedding O
+'s O
+going O
+to O
+be O
+pretty O
+tasteful O
+right O
+? O
+
+But O
+
+oh O
+yeah O
+. O
+
+Now O
+what O
+about O
+the O
+matchbooks O
+? O
+
+Well O
+I O
+'ll O
+work O
+on O
+it O
+. O
+
+I O
+still O
+think O
+about O
+the O
+matchbooks O
+. O
+
+yeah O
+. O
+
+I O
+'ll O
+tell O
+dad O
+that O
+you O
+still O
+think O
+about O
+the O
+
+I O
+have O
+n't O
+forgotten O
+those O
+
+and O
+they O
+'ll O
+still O
+be O
+enough O
+time O
+when O
+I O
+come O
+home O
+for O
+me O
+to O
+order O
+those O
+. O
+
+yeah O
+. O
+
+I O
+'ll O
+have O
+remind O
+him O
+of O
+that O
+little O
+-- O
+-- O
+item O
+. O
+
+yeah O
+. O
+
+%huh O
+how O
+fun- O
+. O
+
+You O
+know O
+I O
+was O
+talking O
+to O
+my O
+friend O
+Heather B-PERSON
+from O
+Wisconsin B-GPE
+the O
+other O
+day O
+-- O
+
+-- O
+and O
+she O
+'s O
+telling O
+me O
+about O
+you O
+know O
+her O
+sister O
+'s O
+wedding O
+. O
+
+And O
+at O
+her O
+sister O
+'s O
+wedding O
+%uh O
+, O
+they O
+provided O
+champagne O
+and O
+beer O
+. O
+
+But O
+if O
+you O
+wanted O
+any O
+other O
+kind O
+of O
+drink O
+you O
+had O
+to O
+pay O
+for O
+it O
+. O
+
+mhm O
+. O
+
+yeah O
+. O
+
+that O
+'s O
+actually O
+kind O
+of O
+common O
+
+but O
+-- O
+oh O
+it O
+is O
+. O
+it O
+'s O
+pretty O
+de O
+classe O
+. O
+
+Well O
+I O
+kind O
+of O
+thou- O
+, O
+
+I O
+mean O
+of O
+course O
+I O
+did O
+n't O
+say O
+anything O
+to O
+her O
+. O
+
+yeah O
+. O
+
+You O
+know O
+I O
+said O
+as O
+far O
+as O
+I O
+knew O
+we O
+were O
+n't O
+charging O
+people O
+. O
+
+yeah O
+. O
+
+Now O
+
+But O
+%uh O
+, O
+
+yeah O
+
+Dad O
+and O
+I O
+went O
+to O
+buy O
+the O
+wine O
+the O
+other O
+day O
+. O
+
+And O
+there O
+were O
+having O
+a O
+sale O
+on O
+the O
+wine O
+dad O
+wanted O
+. O
+
+Are O
+you O
+talking O
+to O
+me O
+? O
+
+Of O
+course O
+I O
+'m O
+talking O
+to O
+you O
+. O
+
+I O
+can O
+hardly O
+hear O
+you O
+. O
+
+oh O
+. O
+
+I O
+thought O
+you O
+were O
+talking O
+to O
+somebody O
+else O
+and O
+like O
+put O
+the O
+phone O
+down O
+or O
+something O
+. O
+
+I O
+'m O
+talking O
+to O
+you O
+. O
+
+oh O
+. O
+
+yeah O
+. O
+
+No O
+dad O
+told O
+me O
+that O
+. O
+
+oh O
+he O
+did O
+tell O
+you O
+. O
+
+It O
+'s O
+all O
+Chilean B-NORP
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+Walnut B-ORG
+Crest I-ORG
+or O
+Walnut B-ORG
+Creek I-ORG
+or O
+-- O
+%mm O
+. O
+-- O
+something O
+like O
+that O
+. O
+
+I O
+do O
+n't O
+know O
+. O
+
+%mm O
+. O
+
+There O
+'s O
+a O
+pretty O
+good O
+sale O
+. O
+%mm O
+. O
+So O
+now O
+we O
+have O
+to O
+keep O
+our O
+eyes O
+open O
+for O
+a O
+champagne O
+sale O
+. O
+
+An- O
+, O
+
+do O
+you O
+know O
+if O
+Jack B-PERSON
+called O
+Spencer B-PERSON
+yet O
+? O
+
+I O
+told O
+him O
+this B-TIME
+morning I-TIME
+to O
+do O
+it O
+this O
+week O
+. O
+
+uh-huh O
+. O
+
+And O
+he O
+just O
+keeps O
+forgetting O
+. O
+
+yeah O
+. O
+
+But O
+o- O
+
+How O
+'s O
+he O
+doing O
+? O
+
+Much O
+better O
+. O
+
+yeah O
+? O
+
+yeah O
+. O
+
+he O
+'s O
+often O
+chipper O
+. O
+
+He O
+went O
+for O
+a O
+walk O
+this B-TIME
+morning I-TIME
+at I-TIME
+five I-TIME
+seventeen I-TIME
+. O
+
+Pe- O
+
+oh O
+my O
+god O
+. O
+
+Is O
+that O
+because O
+he O
+'s O
+not O
+sleeping O
+and O
+
+Well O
+because O
+he O
+could O
+n't O
+breathe O
+because O
+all O
+the O
+cats O
+were O
+in O
+the O
+bedroom O
+. O
+
+oh O
+. O
+
+So O
+I O
+think O
+it O
+'s O
+time O
+to O
+give O
+all O
+the O
+cats O
+a O
+bath O
+. O
+
+%mm O
+. O
+
+yeah O
+
+and O
+the- O
+, O
+
+you O
+should O
+do O
+that O
+. O
+
+I O
+know O
+. O
+
+It O
+'s O
+a O
+two B-CARDINAL
+person O
+job O
+though O
+. O
+
+I O
+'ll O
+have O
+to O
+get O
+somebody O
+to O
+help O
+me O
+. O
+
+%mm O
+. O
+yeah O
+. O
+
+%hm O
+. O
+
+So O
+, O
+anyway O
+, O
+how O
+are O
+you O
+doing O
+these O
+days O
+? O
+
+Things O
+are O
+going O
+very O
+well O
+. O
+
+I O
+think O
+I O
+had O
+mentioned O
+before O
+%uh O
+, O
+that O
+there O
+'s O
+a O
+company O
+now O
+that O
+I O
+'m O
+working O
+with O
+%um O
+, O
+%uh O
+, O
+which O
+is O
+very O
+much O
+just O
+myself O
+and O
+Guss B-PERSON
+. O
+
+oh O
+. O
+
+And O
+that O
+%um O
+
+No O
+, O
+you O
+had O
+n't O
+mentioned O
+that O
+. O
+
+%eh O
+, O
+oh O
+, O
+okay O
+. O
+
+okay O
+, O
+so O
+%um O
+
+%eh O
+you O
+told O
+me O
+that O
+you O
+were O
+leaving O
+the O
+company O
+that O
+you O
+were O
+at O
+, O
+
+and O
+you O
+were O
+entertaining O
+offers O
+. O
+
+And O
+, O
+%uh O
+
+well O
+it O
+seemed O
+to O
+make O
+sense O
+since O
+I O
+had O
+a O
+client O
+to O
+just O
+kind O
+of O
+set O
+up O
+my O
+own O
+company O
+, O
+of O
+sorts O
+. O
+
+%um O
+oh O
+. O
+So O
+things O
+are O
+going O
+extremely O
+well O
+. O
+
+So O
+, O
+I O
+had O
+one O
+client O
+who O
+said O
+that O
+he O
+'d O
+pay O
+me O
+a O
+minimum O
+amount O
+. O
+
+You O
+know O
+, O
+he O
+, O
+%uh O
+, O
+
+there O
+would O
+be O
+a O
+minimum O
+amount O
+of O
+work O
+, O
+of O
+about O
+%uh O
+, O
+a O
+day O
+a O
+week O
+for O
+the B-DATE
+next I-DATE
+two I-DATE
+three I-DATE
+years I-DATE
+. O
+mhm O
+. O
+Which O
+is O
+sufficient O
+to O
+pay O
+all O
+my O
+bills O
+then O
+
+so O
+I O
+decided O
+that O
+it O
+would O
+make O
+sense O
+to O
+do O
+this O
+. O
+
+%um O
+and O
+, O
+%um O
+, O
+I O
+'ve O
+been O
+getting O
+substantially O
+more O
+work O
+than O
+then O
+. O
+
+%mm O
+. O
+
+So O
+I O
+'m O
+quite O
+pleased O
+. O
+
+Well O
+that O
+'s O
+good O
+. O
+
+%um O
+, O
+so O
+I O
+have O
+a O
+bunch O
+of O
+%uh O
+work O
+that O
+I O
+need O
+to O
+do O
+on O
+my O
+flat O
+this B-DATE
+year I-DATE
+. O
+
+I O
+'ve O
+been O
+telling O
+you O
+that O
+I O
+needed O
+to O
+do O
+that O
+roof O
+atrium O
+for O
+quite O
+some O
+time O
+. O
+
+But O
+, O
+%uh O
+, O
+it O
+should O
+come O
+out O
+this B-DATE
+year I-DATE
+. O
+
+oh O
+, O
+well O
+that O
+'s O
+good O
+. O
+
+It O
+should O
+be O
+done O
+in O
+a B-DATE
+few I-DATE
+months I-DATE
+. O
+
+oh O
+, O
+yeah O
+
+I O
+remember O
+So O
+you O
+talking O
+a O
+little O
+bit O
+about O
+it O
+at O
+one O
+point O
+. O
+
+yeah O
+, O
+
+yeah O
+. O
+
+So O
+you O
+have O
+no O
+intentions O
+of O
+coming O
+over O
+this O
+way O
+any O
+time O
+soon O
+? O
+
+%um O
+. O
+I O
+do O
+n't O
+see O
+the O
+finances O
+occurring O
+uh-huh O
+, O
+right O
+. O
+for O
+a O
+while O
+. O
+
+%um O
+, O
+actually O
+right O
+at O
+the O
+moment O
+finances O
+are O
+not O
+going O
+real O
+well O
+. O
+
+But O
+%ah O
+well O
+. O
+I O
+am O
+working O
+on O
+that O
+one O
+. O
+
+%uh O
+. O
+
+It O
+'s O
+just O
+But O
+%um O
+%uh O
+, O
+%uh O
+, O
+the O
+main O
+reason O
+for O
+that O
+is O
+I O
+had O
+not O
+really O
+anticipated O
+a O
+few O
+expenses O
+that O
+recently O
+came O
+up O
+%ah O
+. O
+%uh O
+, O
+related O
+to O
+a O
+couple O
+of O
+burglaries O
+that O
+I O
+had O
+. O
+
+oh O
+, O
+harsh O
+. O
+Harsh O
+. O
+
+yeah O
+. O
+
+yeah O
+, O
+
+and O
+. O
+
+Not O
+a O
+whole O
+lot O
+I O
+can O
+do O
+about O
+that O
+now O
+. O
+
+Indeed O
+. O
+Indeed O
+. O
+
+have O
+to O
+deal O
+with O
+the O
+situation O
+. O
+
+And O
+
+So O
+that O
+'s O
+what O
+I O
+'m O
+doing O
+. O
+
+Sounds O
+good O
+. O
+
+But O
+%um O
+Anyway O
+, O
+%uh O
+One B-CARDINAL
+of O
+the O
+main O
+reasons O
+that O
+I O
+'ve O
+been O
+such O
+a O
+pathetic O
+, O
+%uh O
+, O
+correspondent O
+has O
+been O
+work O
+. O
+
+I O
+'ve O
+actually O
+been O
+doing O
+a O
+lot O
+of O
+it O
+. O
+
+oh O
+wow O
+. O
+
+And O
+%uh O
+, O
+I O
+turned O
+in O
+my O
+Master O
+'s O
+thesis O
+back O
+in O
+May B-DATE
+, O
+
+and O
+I O
+'m O
+actually O
+presently O
+working O
+on O
+, O
+%um O
+, O
+several O
+, O
+%uh O
+, O
+articles O
+oh O
+, O
+okay O
+. O
+Impressive O
+. O
+from O
+it O
+. O
+
+yeah O
+, O
+
+actually O
+it O
+turns O
+out O
+that O
+one B-CARDINAL
+thing O
+, O
+one B-CARDINAL
+little O
+bit O
+in O
+what O
+I O
+was O
+doing O
+, O
+%uh O
+, O
+is O
+going O
+to O
+turn O
+out O
+to O
+be O
+very O
+important O
+in O
+the O
+end O
+. O
+%uh O
+, O
+from O
+what O
+I O
+had O
+been O
+reading O
+in O
+the O
+literature O
+. O
+
+You O
+see O
+the O
+one O
+very O
+annoying O
+thing O
+about O
+all O
+of O
+this O
+, O
+was O
+my O
+advisor O
+has O
+been O
+in O
+France B-GPE
+for O
+a B-DATE
+year I-DATE
+and I-DATE
+a I-DATE
+half I-DATE
+. O
+
+yeah O
+. O
+
+And O
+this O
+made O
+writing O
+my O
+thesis O
+very O
+annoying O
+because O
+you O
+know O
+there O
+was O
+n't O
+much O
+discussion O
+. O
+
+yeah O
+. O
+
+yup O
+, O
+
+yup O
+. O
+
+But O
+, O
+%um O
+Anyway O
+, O
+I O
+had O
+been O
+kind O
+of O
+telling O
+him O
+that O
+, O
+you O
+know O
+, O
+from O
+my O
+reading O
+of O
+the O
+literature O
+, O
+I O
+thought O
+that O
+this O
+one B-CARDINAL
+little O
+alteration O
+I O
+had O
+made O
+in O
+my O
+model O
+was O
+kind O
+of O
+clever O
+and O
+unique O
+. O
+
+mhm O
+. O
+
+And O
+it O
+made O
+the O
+one B-CARDINAL
+type O
+of O
+solution O
+occur O
+, O
+which O
+was O
+seen O
+experimentally O
+, O
+
+but O
+none O
+of O
+the O
+other O
+models O
+%uh O
+, O
+had O
+? O
+
+Yes O
+. O
+
+the- O
+, O
+
+I O
+'m O
+looking O
+at O
+, O
+%um O
+, O
+multi O
+mode O
+lasers O
+. O
+
+And O
+one O
+of O
+the O
+things O
+that O
+they O
+find O
+experimentally O
+are O
+what O
+they O
+call O
+anti O
+phased O
+, O
+%uh O
+, O
+states O
+, O
+where O
+if O
+you O
+look O
+at O
+the O
+total O
+intensity O
+uh-huh O
+. O
+of O
+the O
+laser O
+, O
+you O
+get O
+an O
+oscillation O
+which O
+is O
+characterized O
+by O
+one B-CARDINAL
+frequency O
+. O
+
+Yes O
+. O
+
+okay O
+. O
+
+if O
+you O
+separate O
+out O
+the O
+different O
+modes O
+of O
+the O
+laser O
+mhm O
+. O
+and O
+look O
+at O
+one O
+of O
+those O
+, O
+you O
+get O
+more B-CARDINAL
+than I-CARDINAL
+one I-CARDINAL
+frequency O
+. O
+
+okay O
+. O
+
+So O
+what O
+'s O
+happening O
+is O
+that O
+the O
+modes O
+are O
+oscillating O
+out O
+of O
+phase O
+so O
+that O
+they O
+completely O
+mask O
+each O
+other O
+'s O
+Exactly O
+. O
+%hm O
+. O
+oscillations O
+on O
+these O
+other O
+frequencies O
+. O
+
+And O
+%uh O
+With O
+a O
+pretty O
+simple O
+model O
+you O
+can O
+find O
+that O
+frequency O
+in O
+a O
+transient O
+, O
+
+but O
+you O
+ca O
+n't O
+find O
+that O
+frequency O
+in O
+a O
+driven O
+, O
+%uh O
+, O
+frequency O
+. O
+
+You O
+ca O
+n't O
+find O
+so O
+that O
+it O
+will O
+sustain O
+. O
+
+okay O
+. O
+
+Yes O
+. O
+
+So O
+yeah O
+, O
+that O
+particular O
+frequency O
+according O
+to O
+most O
+models O
+damps O
+out O
+very O
+quickly O
+. O
+
+And O
+so O
+you O
+should O
+n't O
+actually O
+really O
+be O
+able O
+to O
+ever O
+see O
+it O
+. O
+
+%hm O
+. O
+
+The O
+only O
+thing O
+is O
+, O
+that O
+, O
+when O
+you O
+do O
+the O
+experiment O
+you O
+see O
+it O
+. O
+
+Got O
+it O
+, O
+
+got O
+it O
+. O
+
+I O
+see O
+. O
+
+So O
+, O
+%um O
+, O
+I O
+found O
+a O
+simple O
+modification O
+of O
+the O
+original O
+formula O
+, O
+which O
+unfortunately O
+makes O
+the O
+solutions O
+horrendously O
+nasty O
+. O
+And O
+in O
+most O
+cases O
+, O
+%uh O
+, O
+insoluble O
+. O
+
+But O
+yeah O
+. O
+it O
+gives O
+a O
+driving O
+term O
+. O
+
+oh O
+, O
+okay O
+. O
+
+So O
+, O
+it O
+actually O
+creates O
+a O
+situation O
+where O
+you O
+get O
+the O
+right O
+sort O
+of O
+answer O
+, O
+you O
+just O
+ca O
+n't O
+always O
+write O
+it O
+down O
+very O
+easily O
+. O
+
+Exactly O
+. O
+
+oh O
+wow O
+. O
+
+so O
+you O
+'re O
+pushing O
+forward O
+the O
+bounds O
+of O
+theoretical O
+laser O
+, O
+%uh O
+, O
+whatever O
+it O
+is O
+science O
+. O
+
+But O
+
+which O
+, O
+%um O
+, O
+is O
+kind O
+of O
+interesting O
+considering O
+that O
+that O
+'s O
+not O
+really O
+my O
+thing O
+. O
+. O
+Indeed O
+. O
+Indeed O
+. O
+being O
+an O
+experimentalist O
+, O
+not O
+a O
+theorist O
+. O
+
+%um O
+Indeed O
+. O
+oh O
+wow O
+. O
+oh O
+, O
+impressive O
+. O
+But O
+
+so O
+are O
+you O
+going O
+to O
+get O
+an O
+article O
+in O
+Nature B-ORG
+or O
+something O
+? O
+
+%um O
+, O
+actually O
+, O
+I O
+'m O
+not O
+sure O
+if O
+we O
+'re O
+shooting O
+for O
+op- O
+, O
+
+I O
+think O
+Optics B-ORG
+Letters I-ORG
+is O
+probably O
+the O
+one O
+that O
+we O
+'re O
+shooting O
+for O
+, O
+or O
+else O
+, O
+perhaps O
+, O
+though O
+I O
+do O
+n't O
+think O
+it O
+'s O
+quite O
+that O
+significant O
+, O
+would O
+be O
+Phys B-ORG
+Rev I-ORG
+Letters I-ORG
+. O
+
+%hm O
+. O
+
+But O
+, O
+%uh O
+, O
+we O
+want O
+to O
+write O
+a O
+letter O
+, O
+and O
+then O
+a B-CARDINAL
+couple I-CARDINAL
+articles O
+. O
+
+yeah O
+. O
+
+%hm O
+. O
+impressive O
+. O
+
+And O
+I O
+do O
+n't O
+know O
+how O
+much O
+you O
+know O
+about O
+scientific O
+literature O
+, O
+
+but O
+letters O
+are O
+much O
+more O
+prestigious O
+than O
+, O
+articles O
+. O
+
+oh O
+, O
+okay O
+. O
+
+oh O
+, O
+I O
+did O
+n't O
+realize O
+that O
+. O
+
+okay O
+. O
+
+yeah O
+, O
+
+so O
+that O
+'s O
+why O
+it O
+'s O
+actually O
+a O
+big O
+deal O
+is O
+
+I O
+mean O
+, O
+you O
+know O
+, O
+writing O
+a O
+couple O
+of O
+articles O
+based O
+on O
+your O
+Master O
+'s O
+thesis O
+, O
+is O
+, O
+not O
+at O
+all O
+unusual O
+in O
+Physics O
+
+and O
+yeah O
+. O
+%uh O
+, O
+it O
+'s O
+the O
+fact O
+that O
+I O
+would O
+be O
+writing O
+a O
+letter O
+that O
+is O
+the O
+impressive O
+part O
+of O
+it O
+all O
+. O
+
+And O
+what O
+'s O
+actually O
+kind O
+of O
+interesting O
+is O
+I O
+kept O
+telling O
+Neil B-PERSON
+that O
+I O
+thought O
+that O
+this O
+was O
+kind O
+of O
+significant O
+. O
+
+And O
+Neil B-PERSON
+kept O
+writing O
+back O
+that O
+I O
+should O
+tone O
+this O
+part O
+of O
+the O
+thesis O
+down O
+that O
+You O
+know O
+, O
+people O
+see O
+the O
+anti O
+phased O
+motion O
+, O
+
+and O
+it O
+'s O
+true O
+
+they O
+do O
+in O
+the O
+transients O
+
+And O
+I O
+was O
+having O
+a O
+lot O
+of O
+trouble O
+getting O
+across O
+to O
+him O
+that O
+all O
+of O
+the O
+literature O
+has O
+this O
+frequency O
+in O
+the O
+transients O
+Yes O
+. O
+%eh O
+and O
+not O
+driven O
+. O
+
+And O
+, O
+%uh O
+, O
+what O
+happened O
+was O
+after O
+I O
+had O
+turned O
+in O
+my O
+thesis O
+but O
+before O
+I O
+saw O
+Neil B-PERSON
+again O
+, O
+he O
+went O
+to O
+a O
+conference O
+in O
+Rochester B-GPE
+and O
+there O
+this O
+was O
+a O
+big O
+issue O
+among O
+the O
+people O
+who O
+were O
+doing O
+this O
+work O
+, O
+was O
+, O
+that O
+their O
+models O
+could O
+n't O
+show O
+this O
+as O
+a O
+driven O
+frequency O
+, O
+
+yet O
+their O
+experiments O
+showed O
+it O
+as O
+a O
+driven O
+frequency O
+. O
+
+oh O
+cool O
+. O
+
+and O
+so O
+Neil B-PERSON
+then O
+-- O
+Said O
+oh O
+just O
+a O
+second B-TIME
+I O
+-- O
+like O
+a B-DATE
+week I-DATE
+later I-DATE
+came O
+to O
+Bryn B-ORG
+Mawr I-ORG
+
+and O
+he O
+said O
+, O
+hey O
+Lowell B-PERSON
+, O
+we O
+got O
+to O
+write O
+this O
+up O
+. O
+
+Exactly O
+. O
+
+And O
+I O
+was O
+like O
+, O
+well O
+I O
+'ve O
+been O
+telling O
+you O
+that O
+Neil B-PERSON
+. O
+
+Indeed O
+. O
+
+So O
+Cool O
+. O
+Cool O
+. O
+that O
+'s O
+mostly O
+the O
+sort O
+of O
+stuff O
+that O
+I O
+'m O
+spending O
+a O
+lot O
+of O
+time O
+on O
+now O
+. O
+%um O
+
+Well O
+it O
+'ll O
+look O
+good O
+on O
+your O
+C O
+V O
+, O
+your O
+resume O
+. O
+
+so O
+you O
+might O
+as O
+well O
+spend O
+the O
+time O
+. O
+
+Yes O
+, O
+well O
+, O
+
+%uh O
+, O
+no O
+, O
+it O
+'s O
+definitely O
+worth O
+doing O
+. O
+%um O
+, O
+
+and O
+I O
+would O
+have O
+been O
+spending O
+more O
+time O
+on O
+it O
+if O
+it O
+were O
+n't O
+for O
+%uh O
+dealing O
+with O
+the O
+burglary O
+issues O
+oh O
+yeah O
+but O
+that O
+I O
+'ve O
+been O
+dealing O
+with O
+. O
+
+So O
+are O
+you O
+still O
+living O
+in O
+that O
+house O
+in O
+the O
+middle O
+of O
+the O
+park O
+. O
+
+Yes O
+. O
+
+yeah O
+, O
+okay O
+. O
+
+yeah O
+. O
+
+I O
+mean O
+the O
+thing O
+that O
+i- O
+
+this O
+place O
+is O
+incredibly O
+easy O
+to O
+break O
+into O
+if O
+you O
+want O
+to O
+. O
+
+oh O
+. O
+
+It O
+'s O
+not O
+a O
+question O
+of O
+whether O
+or O
+not O
+, O
+%uh O
+you O
+know O
+, O
+that O
+was O
+easy O
+, O
+
+it O
+was O
+just O
+that O
+no O
+one O
+really O
+knew O
+it O
+was O
+worth O
+breaking O
+into O
+. O
+
+Exactly O
+. O
+
+Exactly O
+. O
+
+yeah O
+. O
+
+And O
+so O
+the O
+problem O
+is O
+that O
+now O
+they O
+found O
+out O
+that O
+it O
+'s O
+worth O
+breaking O
+into O
+. O
+
+yeah O
+. O
+
+And O
+unfortunately O
+. O
+
+Well O
+, O
+it O
+'s O
+kind O
+of O
+odd O
+. O
+
+They O
+'ve O
+stolen O
+very O
+weird O
+things O
+for O
+the O
+most O
+part O
+. O
+
+%hm O
+. O
+
+as O
+far O
+
+yeah O
+
+as O
+a O
+. O
+
+The O
+first B-ORDINAL
+time O
+they O
+broke O
+in O
+, O
+what O
+they O
+stole O
+was O
+just O
+bizarre O
+, O
+
+mostly O
+worthless O
+stuff O
+. O
+
+And O
+, O
+%uh O
+%huh O
+the O
+most O
+worthwhile O
+thing O
+as O
+far O
+as O
+monetary O
+value O
+went O
+that O
+they O
+stole O
+was O
+the O
+pre-amplifier O
+of O
+my O
+stereo O
+. O
+Unfortunately O
+, O
+because O
+it O
+'s O
+a O
+nice O
+pre-amplifier O
+, O
+
+it O
+has O
+an O
+off O
+board O
+power O
+supply O
+which O
+they O
+did O
+n't O
+steal O
+, O
+which O
+makes O
+the O
+thing O
+that O
+they O
+**stoled** O
+absolutely O
+worthless O
+. O
+
+%huh O
+. O
+
+So O
+. O
+
+That O
+'s O
+bizarre O
+. O
+Bizarre O
+. O
+
+so O
+when O
+they O
+broke O
+in O
+the O
+second B-ORDINAL
+time O
+did O
+they O
+steal O
+the O
+%uh O
+offboard O
+amplifier O
+? O
+
+Actually O
+, O
+no O
+, O
+
+all O
+they O
+stole O
+the O
+second B-ORDINAL
+time O
+was O
+my O
+bike O
+. O
+
+%huh O
+. O
+
+Which O
+was O
+actually O
+where O
+the O
+major O
+problem O
+came O
+. O
+Exactly O
+. O
+Exactly O
+. O
+yeah O
+. O
+Is O
+that O
+I O
+suddenly O
+had O
+no O
+transportation O
+. O
+
+And O
+so O
+, O
+I O
+then O
+had O
+to O
+go O
+bike O
+hunting O
+and O
+eventually O
+get O
+another O
+bike O
+, O
+
+and O
+%mm O
+. O
+that O
+cost O
+me O
+a O
+lot O
+of O
+time O
+. O
+
+yeah O
+. O
+
+Exactly O
+. O
+
+Because O
+, O
+
+yes O
+
+Spending O
+a O
+lot O
+of O
+time O
+hunting O
+for O
+bikes O
+, O
+and O
+nah O
+well O
+. O
+then O
+getting O
+one B-CARDINAL
+purchased O
+, O
+and O
+then O
+having O
+to O
+, O
+you O
+know O
+, O
+go O
+get O
+it O
+and O
+things O
+like O
+that O
+. O
+
+But O
+, O
+that O
+'s O
+dealt O
+with O
+at O
+least O
+. O
+
+And O
+so O
+%uh O
+, O
+that O
+'s O
+yeah O
+at O
+least O
+dealt O
+with O
+. O
+
+Now O
+I O
+just O
+have O
+to O
+work O
+on O
+the O
+financial O
+aspects O
+of O
+all O
+of O
+this O
+. O
+
+But O
+yeah O
+. O
+yeah O
+. O
+
+At O
+least O
+Well O
+that O
+would O
+make O
+sense O
+during O
+the O
+summer O
+%uh O
+according O
+to O
+the O
+stipulations O
+of O
+my O
+fellowship O
+, O
+I O
+can O
+actually O
+earn O
+money O
+during O
+the B-DATE
+summer I-DATE
+. O
+
+%um O
+, O
+how O
+are O
+you O
+guys O
+? O
+
+How O
+is O
+Chris B-PERSON
+
+and O
+how O
+are O
+you O
+? O
+
+Well O
+pretty O
+well O
+. O
+
+Chris B-PERSON
+is O
+not O
+here O
+at O
+the O
+moment O
+. O
+
+She O
+'s O
+been O
+away O
+with O
+her O
+class O
+oh O
+. O
+up O
+around O
+Blandenburg B-GPE
+for O
+about B-DATE
+two I-DATE
+weeks I-DATE
+on O
+a O
+, O
+what O
+they O
+call O
+Feldmessen O
+. O
+
+Feldmessen O
+is O
+, O
+%um O
+, O
+surveying O
+. O
+
+%hm O
+. O
+
+%uh O
+, O
+so O
+she O
+'s O
+been O
+away O
+for O
+two B-DATE
+weeks I-DATE
+. O
+
+She O
+'s O
+coming O
+back O
+tonight B-TIME
+. O
+
+ha O
+. O
+
+So O
+we O
+'re O
+looking O
+forward O
+to O
+that O
+. O
+
+oh O
+, O
+I O
+'m O
+sorry O
+we O
+'re O
+going O
+to O
+miss O
+her O
+. O
+
+yeah O
+, O
+
+oh O
+gosh O
+. O
+I O
+bet O
+you O
+'re O
+getting O
+lonely O
+. O
+
+yeah O
+, O
+
+well O
+. O
+Claudia B-PERSON
+'s O
+been O
+here O
+
+and O
+we O
+'ve O
+been O
+doing O
+okay O
+. O
+
+%mm O
+. O
+
+And O
+I O
+'m O
+actually O
+waiting O
+for O
+Claudia B-PERSON
+to O
+show O
+up O
+because O
+we O
+were O
+supposed O
+to O
+go O
+into O
+town O
+and O
+meet O
+some O
+people O
+in O
+town O
+. O
+
+I O
+'ve O
+got O
+a O
+student O
+here O
+who O
+'s O
+checking O
+out O
+rooms O
+and O
+stuff O
+. O
+
+%mm O
+. O
+
+She O
+'s O
+coming O
+in O
+the O
+fall B-DATE
+, O
+
+but O
+she O
+was O
+in O
+a O
+place O
+called O
+Taiwa B-GPE
+. O
+
+You O
+know O
+Tufts B-ORG
+yeah O
+. O
+sent O
+her O
+to O
+Taiwa B-GPE
+
+I O
+had O
+friends O
+there O
+. O
+She O
+did O
+a O
+course O
+in O
+Taiwa B-GPE
+
+and O
+then O
+she O
+came O
+over O
+here O
+, O
+and O
+%um O
+, O
+checked O
+out O
+a O
+room O
+here O
+. O
+
+And O
+so O
+it O
+'s O
+
+and O
+the O
+end O
+semester O
+is O
+still O
+going O
+. O
+
+Of O
+course O
+it O
+ends O
+on O
+the B-DATE
+twenty I-DATE
+second I-DATE
+of I-DATE
+July I-DATE
+. O
+
+mhm O
+. O
+
+So O
+, O
+%uh O
+oh O
+, O
+yeah O
+. O
+things O
+are O
+busy O
+. O
+
+yeah O
+, O
+
+gosh O
+. O
+
+yeah O
+. O
+
+You O
+still O
+got O
+another O
+month B-DATE
+. O
+
+And O
+then O
+, O
+are O
+you O
+coming O
+over O
+to O
+the O
+States B-GPE
+at O
+all O
+this B-DATE
+summer I-DATE
+? O
+
+No O
+. O
+
+No O
+. O
+
+No O
+, O
+no O
+. O
+%uh O
+
+Not O
+even O
+Chris B-PERSON
+? O
+
+No O
+, O
+no O
+, O
+no O
+. O
+%uh O
+
+Not O
+enough O
+relatives O
+left O
+here O
+anymore O
+? O
+
+Well O
+the O
+relative O
+scene O
+is O
+kind O
+of O
+sad O
+. O
+
+You O
+know O
+everybody O
+'s O
+kind O
+of O
+passed O
+away O
+, O
+almost O
+. O
+
+yeah O
+, O
+
+I O
+remember O
+when O
+I O
+talked O
+to O
+you O
+in O
+the B-DATE
+fall I-DATE
+yeah O
+. O
+yeah O
+. O
+that O
+%uh O
+
+It O
+'s O
+just O
+about O
+
+oh O
+did O
+your O
+sister O
+die O
+? O
+
+My O
+sister O
+passed O
+away O
+, O
+
+yeah O
+. O
+
+I O
+do O
+n't O
+know O
+if O
+you O
+spoke O
+to O
+me O
+before O
+that O
+or O
+when O
+it O
+was O
+that O
+was O
+happening O
+. O
+Or O
+
+I O
+guess O
+not O
+
+When O
+was O
+it O
+? O
+
+It O
+may O
+have O
+been O
+right O
+after O
+. O
+
+Well O
+
+My O
+father O
+died O
+right O
+after O
+we O
+talked O
+. O
+
+oh O
+god O
+. O
+
+yeah O
+. O
+
+yeah O
+, O
+
+we O
+'re O
+getting O
+old O
+. O
+
+No O
+, O
+it O
+'s O
+, O
+
+I O
+do O
+n't O
+know O
+what O
+it O
+is O
+. O
+
+It O
+'s O
+just O
+, O
+%uh O
+, O
+people O
+get O
+sick O
+, O
+
+and O
+they O
+get O
+sick O
+pretty O
+young O
+, O
+
+and O
+, O
+
+yeah O
+. O
+
+And O
+you O
+know O
+my O
+sister O
+was O
+n't O
+that O
+old O
+
+and O
+she O
+just O
+had O
+bad O
+luck O
+I O
+guess O
+is O
+all O
+you O
+can O
+say O
+. O
+
+yeah O
+. O
+
+I O
+'m O
+going O
+to O
+put O
+you O
+on O
+after O
+fifteen B-TIME
+minutes I-TIME
+. O
+
+I O
+'ve O
+got O
+to O
+
+And O
+there O
+was O
+n't O
+anything O
+anybody O
+could O
+do O
+. O
+
+So O
+. O
+
+And O
+then O
+an O
+aunt O
+of O
+Chris B-PERSON
+'s O
+Aunt O
+Mamie B-PERSON
+up O
+in O
+Maine B-GPE
+passed O
+away O
+. O
+
+that O
+had O
+n't O
+happ- O
+, O
+
+had O
+that O
+happened O
+already O
+? O
+
+No O
+
+No O
+that O
+had O
+not O
+happened O
+, O
+no O
+. O
+
+She O
+passed O
+away O
+in O
+about B-DATE
+March I-DATE
+or O
+
+yeah O
+, O
+I O
+think O
+that O
+there O
+was O
+some O
+concern O
+about O
+her O
+when O
+I O
+talked O
+to O
+you O
+in O
+September B-DATE
+or O
+October B-DATE
+. O
+
+. O
+
+yeah O
+. O
+
+No O
+, O
+she O
+was O
+not O
+doing O
+well O
+. O
+
+She O
+had O
+a O
+brain O
+tumor O
+. O
+
+And O
+then O
+they O
+operated O
+on O
+
+and O
+things O
+were O
+n't O
+going O
+well O
+, O
+
+and O
+. O
+
+I O
+actually O
+got O
+to O
+see O
+her O
+I O
+guess O
+a O
+day O
+before O
+she O
+died O
+. O
+
+oh O
+. O
+
+I O
+mean O
+she O
+did O
+n't O
+know O
+that O
+I O
+was O
+there O
+. O
+
+if O
+that O
+was O
+you O
+, O
+yeah O
+. O
+yeah O
+, O
+she O
+was O
+just O
+not O
+in O
+
+So O
+it O
+was O
+a O
+blessing O
+, O
+I O
+guess O
+. O
+
+But O
+, O
+%um O
+. O
+
+Anyway O
+, O
+weird O
+stuff O
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+And O
+how O
+about O
+you O
+? O
+
+Because O
+, O
+I O
+r- O
+
+oh O
+I O
+'m O
+han- O
+
+how O
+are O
+your O
+eyes O
+? O
+
+yeah O
+. O
+
+Well O
+, O
+I O
+do O
+n't O
+know O
+. O
+
+I O
+have O
+to O
+go O
+next B-DATE
+week I-DATE
+you O
+know O
+to O
+see O
+again O
+. O
+
+I O
+, O
+%um O
+, O
+not O
+exactly O
+convinced O
+that O
+. O
+It O
+'s O
+okay O
+. O
+You O
+know O
+, O
+
+I O
+'m O
+not O
+sure O
+. O
+
+%hm O
+. O
+
+%uh O
+, O
+it O
+'s O
+been O
+pretty O
+good O
+. O
+
+It O
+was O
+about O
+eighty B-PERCENT
+percent I-PERCENT
+for O
+a O
+while O
+. O
+
+And O
+then O
+%um O
+, O
+I O
+'m O
+not O
+exactly O
+sure O
+what O
+it O
+is O
+now O
+. O
+
+But O
+I O
+'ll O
+know O
+in O
+a B-DATE
+couple I-DATE
+of I-DATE
+days I-DATE
+. O
+
+So O
+are O
+you O
+having O
+blurred O
+vision O
+? O
+
+Or O
+
+oh O
+yeah O
+, O
+yeah O
+. O
+
+Sure O
+. O
+
+The O
+right O
+eye O
+is O
+%uh O
+, O
+not O
+so O
+great O
+. O
+
+%hm O
+. O
+
+%um O
+, O
+and O
+it O
+got O
+back O
+to O
+about B-PERCENT
+eighty I-PERCENT
+percent I-PERCENT
+. O
+
+You O
+know O
+it O
+was O
+a O
+detached O
+retina O
+. O
+
+Right O
+. O
+
+And O
+then O
+they O
+operated O
+on O
+it O
+once O
+, O
+
+and O
+they O
+operated O
+on O
+it O
+twice O
+. O
+
+And O
+, O
+then O
+things O
+seemed O
+to O
+be O
+doing O
+pretty O
+well O
+, O
+
+and O
+at O
+the O
+moment O
+I O
+'m O
+%um O
+, O
+not O
+quite O
+so O
+sure O
+. O
+
+%hm O
+. O
+
+So O
+, O
+who O
+knows O
+. O
+%um O
+. O
+
+%hm O
+. O
+
+But O
+you O
+know O
+it O
+'ll O
+never O
+be O
+more O
+than O
+about B-PERCENT
+seventy I-PERCENT
+or I-PERCENT
+eighty I-PERCENT
+percent I-PERCENT
+. O
+Which O
+is O
+fine O
+. O
+
+Eighty B-PERCENT
+percent I-PERCENT
+is O
+fantastic O
+. O
+
+Right O
+. O
+
+Right O
+. O
+
+%um O
+
+So O
+we O
+'ll O
+just O
+see O
+. O
+You O
+know O
+
+%hm O
+. O
+we O
+'ll O
+see O
+what O
+happens O
+. O
+
+Frustrating O
+. O
+
+%uh O
+, O
+yeah O
+. O
+
+Annoying O
+. O
+
+And O
+that O
+thing O
+that O
+came O
+up O
+recently O
+, O
+, O
+you O
+know O
+I O
+had O
+, O
+oh O
+, O
+a O
+kind O
+of O
+a O
+knee O
+problem O
+a B-DATE
+couple I-DATE
+of I-DATE
+years I-DATE
+ago I-DATE
+. O
+
+And O
+my O
+right O
+knee O
+, O
+
+and O
+now O
+it O
+'s O
+my O
+left O
+knee O
+. O
+
+you O
+know O
+, O
+it O
+'s O
+just O
+a O
+pain O
+in O
+the O
+ass O
+. O
+
+And O
+yeah O
+. O
+%um O
+, O
+I O
+went O
+to O
+the O
+doctor O
+
+and O
+they O
+do O
+a O
+Punktion O
+. O
+Ich O
+weiss O
+nicht O
+wer O
+. O
+
+Anyway O
+they O
+take O
+, O
+%uh O
+fluid O
+out O
+of O
+it O
+. O
+
+uh-huh O
+. O
+
+And O
+if O
+it O
+gets O
+irritated O
+take O
+some O
+pills O
+and O
+stuff O
+. O
+
+And O
+, O
+it O
+'s O
+just O
+a O
+pain O
+in O
+the O
+ass O
+. O
+
+So O
+it O
+'s O
+just O
+, O
+l- O
+. O
+
+is O
+that O
+like O
+water O
+on O
+the O
+knee O
+? O
+
+Is O
+that O
+what O
+that O
+is O
+? O
+
+%um O
+, O
+well O
+that O
+'s O
+what O
+happens O
+. O
+
+It O
+develops O
+because O
+of O
+irritation O
+, O
+because O
+of O
+a O
+%um O
+, O
+inflammation O
+. O
+
+%hm O
+. O
+
+Is O
+that O
+from O
+the O
+running O
+? O
+
+And O
+how O
+the O
+inflammation O
+d- O
+
+yeah O
+, O
+
+maybe O
+. O
+
+I O
+mean O
+they O
+do O
+n't O
+know O
+. O
+
+mhm O
+. O
+
+They O
+do O
+n't O
+
+It O
+just O
+came O
+overnight B-TIME
+practically O
+. O
+
+Wow O
+. O
+
+%um O
+, O
+and O
+%uh O
+, O
+we O
+'d O
+been O
+up O
+in O
+Berlin B-GPE
+
+and O
+we O
+had O
+a O
+big O
+trip O
+up O
+there O
+and O
+did O
+a O
+lot O
+of O
+walking O
+, O
+a O
+lot O
+of O
+fast O
+walking O
+and O
+stuff O
+. O
+
+But O
+you O
+know O
+, O
+I O
+mean O
+that O
+mhm O
+. O
+should O
+n't O
+be O
+a O
+big O
+deal O
+. O
+%um O
+
+Was O
+this O
+last O
+crop O
+of O
+**Tuftees** O
+good O
+? O
+
+So O
+. O
+
+Was O
+your O
+last O
+crop O
+of O
+students O
+from O
+Tufts B-ORG
+good O
+? O
+
+How O
+'s O
+that O
+? O
+
+yeah O
+
+well O
+they O
+'re O
+still O
+here O
+. O
+
+Right O
+, O
+
+but O
+they O
+'re O
+winding O
+down O
+, O
+so O
+you O
+know O
+them O
+really O
+well O
+by O
+this O
+point O
+. O
+
+They O
+'re O
+winding O
+down O
+. O
+
+yeah O
+, O
+
+they O
+'re O
+very O
+good O
+. O
+
+they O
+learned O
+a O
+lot O
+of O
+German B-LANGUAGE
+. O
+
+They O
+learned O
+an O
+amazing O
+amount O
+of O
+German B-LANGUAGE
+. O
+
+Before O
+I O
+forget O
+, O
+I O
+saw O
+George B-PERSON
+Silinas I-PERSON
+a B-DATE
+couple I-DATE
+of I-DATE
+days I-DATE
+ago I-DATE
+. O
+
+oh O
+. O
+How O
+'s O
+he O
+doing O
+? O
+
+And O
+he O
+'s O
+had O
+
+Well O
+he O
+'s O
+working O
+for O
+an O
+American B-NORP
+firm O
+over O
+here O
+, O
+
+and O
+he O
+'s O
+doing O
+very O
+very O
+well O
+. O
+%um O
+, O
+
+and O
+his O
+wife O
+just O
+had O
+their O
+fourth B-ORDINAL
+child O
+. O
+
+Wow O
+. O
+
+A O
+little O
+boy O
+. O
+Benjamin B-PERSON
+. O
+
+yeah O
+. O
+
+Wow O
+. O
+
+%um O
+, O
+about B-DATE
+, I-DATE
+%uh I-DATE
+, I-DATE
+two I-DATE
+weeks I-DATE
+ago I-DATE
+maybe O
+. O
+
+%huh O
+. O
+
+Tops O
+. O
+
+And O
+I O
+got O
+a O
+card O
+from O
+, O
+
+you O
+remember O
+Amy B-PERSON
+Gleason I-PERSON
+? O
+
+yeah O
+. O
+
+yeah O
+. O
+
+Well O
+she O
+just O
+had O
+a O
+baby O
+a O
+couple O
+of O
+
+heard O
+that O
+. O
+
+Well O
+this O
+is O
+number O
+two B-CARDINAL
+. O
+
+okay O
+. O
+
+I O
+just O
+got O
+a O
+card O
+from O
+Ron B-PERSON
+and O
+Doris B-PERSON
+, O
+
+oh O
+. O
+
+and O
+they O
+see O
+Amy B-PERSON
+Gleason I-PERSON
+on O
+occasion O
+. O
+
+And O
+so O
+I O
+think O
+they O
+told O
+me O
+that O
+. O
+
+yeah O
+. O
+
+Have O
+you O
+heard O
+from O
+Ron B-PERSON
+and O
+Doris B-PERSON
+? O
+
+Not O
+in O
+a O
+while O
+, O
+no O
+. O
+
+They O
+are O
+now O
+living O
+in O
+Rhode B-GPE
+Island I-GPE
+. O
+
+You O
+probably O
+knew O
+that O
+. O
+
+Well O
+. O
+yeah O
+. O
+
+And O
+she O
+'s O
+teaching O
+at O
+U B-ORG
+R I-ORG
+I I-ORG
+. O
+
+yeah O
+. O
+
+And O
+it O
+was O
+a O
+very O
+nice O
+letter O
+, O
+because O
+it O
+sounded O
+like O
+she O
+went O
+through O
+very O
+similar O
+things O
+that O
+I O
+did O
+. O
+
+You O
+know O
+, O
+I O
+went O
+from O
+Chicago B-GPE
+to O
+U B-ORG
+C I-ORG
+S I-ORG
+G I-ORG
+to O
+here O
+. O
+
+Right O
+. O
+
+And O
+it O
+'s O
+just O
+such O
+an O
+intellectual O
+letdown O
+. O
+
+Right O
+. O
+
+And O
+she O
+went O
+from O
+Penn B-ORG
+, O
+%um O
+To O
+Columbia B-ORG
+. O
+to O
+Columbia B-ORG
+to O
+U B-ORG
+R I-ORG
+I I-ORG
+. O
+
+Well O
+Columbia B-ORG
+'s O
+okay O
+. O
+
+yeah O
+. O
+
+And O
+she O
+said O
+the O
+students O
+are O
+just O
+, O
+
+you O
+know O
+, O
+they O
+do O
+n't O
+care O
+, O
+
+and O
+they O
+'re O
+not O
+very O
+good O
+, O
+
+and O
+all O
+of O
+a O
+sudden O
+she O
+'s O
+getting O
+conference O
+papers O
+rejected O
+
+and O
+she O
+thinks O
+it O
+'s O
+the O
+affiliation O
+. O
+
+yeah O
+. O
+
+Because O
+she O
+does O
+n't O
+think O
+the O
+quality O
+of O
+her O
+work O
+has O
+changed O
+. O
+
+Now O
+I O
+have O
+n't O
+submitted O
+a O
+conference O
+paper O
+with O
+the O
+Missouri B-ORG
+%um O
+, O
+you O
+know O
+, O
+affiliation O
+yet O
+. O
+
+Because O
+the O
+last O
+one O
+I O
+submitted O
+, O
+%um O
+, O
+was O
+in O
+the O
+fall O
+, O
+
+and O
+I O
+still O
+had O
+my O
+San B-ORG
+Diego I-ORG
+affiliation O
+. O
+
+yeah O
+. O
+
+%um O
+, O
+in O
+fact O
+I O
+'m O
+still O
+officially O
+on O
+leave O
+. O
+
+If O
+anything O
+came O
+up O
+in O
+the B-DATE
+next I-DATE
+year I-DATE
+we O
+could O
+still O
+go O
+back O
+. O
+uh-huh O
+. O
+%uh O
+you O
+know O
+, O
+for O
+Sam B-PERSON
+. O
+
+Wow O
+. O
+
+But O
+I O
+think O
+it O
+'s O
+very O
+very O
+very O
+very O
+yeah O
+. O
+unlikely O
+. O
+
+yeah O
+. O
+
+But O
+at O
+any O
+rate O
+it O
+was O
+nice O
+to O
+hear O
+from O
+her O
+because O
+she O
+said O
+after B-DATE
+two I-DATE
+years I-DATE
+there O
+now O
+, O
+she O
+%um O
+has O
+come O
+to O
+terms O
+with O
+this O
+, O
+
+and O
+yeah O
+. O
+she O
+'s O
+accepted O
+that O
+there O
+'s O
+a O
+lot O
+of O
+good O
+things O
+in O
+Rhode B-GPE
+Island I-GPE
+. O
+
+And O
+, O
+%um O
+, O
+you O
+know O
+, O
+their O
+life O
+is O
+a O
+lot O
+less O
+complicated O
+, O
+
+and O
+she O
+has O
+more O
+time O
+to O
+be O
+a O
+parent O
+. O
+
+yeah O
+. O
+
+Good O
+. O
+
+And O
+she O
+'s O
+just O
+not O
+going O
+to O
+have O
+the O
+same O
+kind O
+of O
+career O
+that O
+she O
+had O
+thought O
+about O
+. O
+
+Ron B-PERSON
+is O
+working O
+as O
+a O
+financial O
+consultant O
+for O
+, O
+%um O
+, O
+Meryl B-ORG
+Lynch I-ORG
+. O
+
+And O
+he O
+
+oh O
+. O
+
+yeah O
+, O
+he O
+had O
+been O
+doing O
+work O
+for O
+some O
+environmental O
+firm O
+, O
+as O
+a O
+consultant O
+. O
+
+uh-huh O
+. O
+
+And O
+, O
+it O
+did O
+n't O
+work O
+out O
+. O
+
+%um O
+He O
+was O
+changing O
+projects O
+every B-DATE
+couple I-DATE
+of I-DATE
+weeks I-DATE
+
+and O
+he O
+said O
+he O
+could O
+n't O
+keep O
+on O
+top O
+of O
+it O
+. O
+
+He O
+could O
+n't O
+learn O
+the O
+whole O
+new O
+area O
+%mm O
+. O
+that O
+fast O
+each O
+time O
+. O
+
+%mm O
+. O
+
+%um O
+, O
+and O
+he O
+says O
+he O
+went O
+in O
+and O
+had O
+some O
+tests O
+, O
+
+and O
+he O
+was O
+diagnosed O
+as O
+having O
+attention O
+deficit O
+disorder O
+. O
+
+Which O
+you O
+know O
+, O
+given O
+how O
+far O
+he O
+'s O
+gotten O
+, O
+you O
+know O
+, O
+he O
+got O
+his O
+degree O
+at O
+Tufts B-ORG
+and O
+all O
+, O
+I O
+found O
+that O
+surprising O
+that O
+for O
+the O
+first B-ORDINAL
+time O
+as O
+an O
+adult O
+they O
+'re O
+diagnosing O
+this O
+. O
+%um O
+
+%mm O
+. O
+I O
+wonder O
+about O
+it O
+. O
+
+But O
+anyway O
+. O
+
+yeah O
+, O
+
+but O
+that O
+'s O
+what O
+he O
+said O
+. O
+
+And O
+%um O
+
+yeah O
+. O
+
+He O
+%um O
+
+Whatever O
+'s O
+helpful O
+. O
+
+Right O
+. O
+
+So O
+he O
+found O
+this O
+new O
+job O
+as O
+a O
+financial O
+consultant O
+and O
+seems O
+to O
+be O
+happy O
+with O
+that O
+. O
+
+Good O
+. O
+
+And O
+then O
+we O
+saw O
+Leo B-PERSON
+and O
+Julie B-PERSON
+at O
+Christmas B-DATE
+time O
+. O
+
+uh-huh O
+. O
+
+And O
+they O
+'re O
+doing O
+great O
+. O
+
+%um O
+, O
+they O
+had O
+just O
+moved O
+to O
+He O
+'s O
+in O
+New B-GPE
+York I-GPE
+now O
+, O
+right O
+? O
+a O
+really O
+nice O
+house O
+in O
+Westchester B-GPE
+. O
+
+yeah O
+, O
+Good O
+. O
+an O
+older O
+home O
+that O
+you O
+know O
+Julie B-PERSON
+is O
+of O
+course O
+carving O
+up O
+and O
+making O
+beautiful O
+. O
+%um O
+
+uh-huh O
+. O
+
+Now O
+she O
+had O
+a O
+job O
+with O
+an O
+architectural O
+group O
+when O
+she O
+first O
+got O
+out O
+to O
+New B-GPE
+York I-GPE
+, O
+
+and O
+that O
+did O
+n't O
+work O
+out O
+. O
+
+She O
+said O
+they O
+had O
+her O
+doing O
+things O
+that O
+she O
+really O
+was O
+n't O
+qualified O
+to O
+do O
+%ah O
+. O
+and O
+that O
+she O
+really O
+did O
+n't O
+feel O
+competent O
+doing O
+. O
+
+And O
+, O
+they O
+mutually O
+agreed O
+that O
+she O
+should O
+leave O
+. O
+
+And O
+so O
+she O
+was O
+looking O
+for O
+another O
+job O
+. O
+
+And O
+, O
+%um O
+, O
+I O
+'m O
+sure O
+she O
+'ll O
+find O
+one O
+. O
+
+She O
+'s O
+so O
+talented O
+. O
+
+She O
+may O
+have O
+found O
+one O
+by O
+now O
+. O
+%um O
+
+yeah O
+, O
+
+oh O
+yeah O
+. O
+
+Amazing O
+, O
+
+yeah O
+. O
+
+yeah O
+, O
+
+and O
+so O
+we O
+met O
+, O
+%um O
+, O
+%uh O
+Adrian B-PERSON
+, O
+their O
+kid O
+, O
+who O
+was O
+three B-DATE
+uh-huh O
+. O
+and O
+just O
+a O
+really O
+lovely O
+little O
+boy O
+. O
+
+right O
+
+yeah O
+
+He O
+'s O
+so O
+big O
+. O
+
+Well O
+, O
+, O
+Leo B-PERSON
+'s O
+big O
+. O
+You O
+know O
+, O
+
+he O
+'s O
+got O
+Leo B-PERSON
+'s O
+genes O
+. O
+
+yeah O
+. O
+
+yeah O
+. O
+
+And O
+%uh O
+Ron B-PERSON
+and O
+Doris B-PERSON
+sent O
+us O
+a O
+picture O
+of O
+theirs O
+
+and O
+he O
+has O
+Ron B-PERSON
+'s O
+expressions O
+. O
+
+He O
+really O
+looks O
+like O
+Ron B-PERSON
+. O
+
+oh O
+that O
+'s O
+life O
+. O
+
+%um O
+, O
+and O
+he O
+looked O
+really O
+big O
+too O
+. O
+
+In O
+this O
+picture O
+, O
+he O
+'s O
+three B-CARDINAL
+and I-CARDINAL
+a I-CARDINAL
+half I-CARDINAL
+. O
+
+yeah O
+. O
+
+%huh O
+. O
+
+%um O
+, O
+but O
+Leo B-PERSON
+and O
+Julie B-PERSON
+just O
+seemed O
+, O
+%um O
+sort O
+of O
+happy O
+with O
+the O
+decisions O
+they O
+'ve O
+made O
+. O
+
+And O
+
+Good O
+. O
+
+%um O
+, O
+like O
+every O
+
+now O
+is O
+he O
+with O
+a O
+publishing O
+house O
+now O
+? O
+
+Which O
+one O
+is O
+he O
+with O
+. O
+
+Yes O
+which O
+one O
+%um O
+
+Well O
+I O
+can O
+
+yeah O
+
+It O
+'s O
+one O
+of O
+these O
+sort O
+of O
+universi- O
+the O
+public O
+university O
+book O
+stuff O
+. O
+
+It O
+might O
+be O
+Hard B-ORG
+Core I-ORG
+Brace I-ORG
+. O
+
+I O
+'m O
+not O
+sure O
+. O
+
+oh O
+yeah O
+. O
+
+I O
+have O
+two B-CARDINAL
+friends O
+in O
+publishing O
+. O
+
+It O
+may O
+be O
+the O
+other O
+one O
+that O
+just O
+took O
+the O
+job O
+with O
+Hard B-ORG
+Core I-ORG
+Brace I-ORG
+
+I O
+do O
+n't O
+remember O
+which O
+one O
+. O
+
+yeah O
+. O
+
+Anyway O
+, O
+he O
+'s O
+enjoying O
+it O
+and O
+liking O
+it O
+
+and O
+they O
+'re O
+doing O
+okay O
+. O
+
+yeah O
+
+he O
+seems O
+to O
+feel O
+really O
+like O
+he O
+'s O
+doing O
+the O
+right O
+thing O
+
+and O
+he O
+is O
+Great O
+still O
+in O
+academic O
+publishing O
+. O
+
+My O
+other O
+friend O
+just O
+moved O
+to O
+trade O
+publishing O
+after O
+years B-DATE
+in O
+academic O
+publishing O
+
+and O
+mhm O
+%um O
+you O
+know O
+. O
+It O
+feels O
+like O
+maybe O
+she O
+made O
+a O
+compromise O
+
+but O
+it O
+'s O
+like O
+three B-CARDINAL
+times O
+the O
+money O
+as O
+with O
+everything O
+else O
+
+so O
+
+wow O
+wow O
+
+industry O
+and O
+academics O
+%um O
+
+Terrible O
+
+yeah O
+it O
+'s O
+amazing O
+
+and O
+%um O
+You O
+know O
+ages O
+ago O
+I O
+got O
+a O
+card O
+from O
+Liz B-PERSON
+Gana I-PERSON
+. O
+
+I O
+told O
+you O
+this O
+. O
+
+because O
+%uh O
+you O
+showed O
+us O
+her O
+picture O
+. O
+
+yeah O
+
+yeah O
+
+Crazy O
+
+%um O
+and O
+I O
+keep O
+thinking O
+maybe O
+I O
+'d O
+get O
+in O
+touch O
+
+but O
+I O
+have O
+n't O
+done O
+it O
+. O
+
+and O
+then O
+I O
+saw O
+in O
+the O
+%um O
+Tufts B-ORG
+thing O
+that O
+Ginny B-PERSON
+Totta I-PERSON
+you O
+know O
+in O
+the O
+alumni O
+thing O
+is O
+living O
+in O
+the O
+
+yeah O
+
