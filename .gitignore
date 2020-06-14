@@ -1,0 +1,14 @@
+*.pkl
+*/models/*
+NER/models/*
+sentiment/models/*
+*.pt
+*.pyc
+*__pycache__*
+NER/get_data.py
+sentiment/get_data.py
+*cached*
+NER/data/processed/*
+sentiment/data/processed/*
+
+
