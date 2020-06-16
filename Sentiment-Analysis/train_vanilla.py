@@ -279,7 +279,6 @@ def evaluate(model, dataloader, device, global_step = None, return_preds = False
 
         nb_eval_examples += input_ids.size(0)
         nb_eval_steps += 1
-        if step == 20: break
 
     if return_preds:
         all_labels = np.concatenate(all_labels)
@@ -560,7 +559,6 @@ def main():
                     optimizer.step()
                     model.zero_grad()
                     global_step += 1
-                if step == 20: break
 
 
             model.eval()
