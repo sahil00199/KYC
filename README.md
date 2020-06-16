@@ -14,6 +14,8 @@ The instructions to train models and evaluate on custom data is similar for both
  In order to evaluate (and compare) the performance of the 2 models run    
  ``./evaluate.sh``   
  This prints, for each of the models, the results to stdout as well as saves it in the `models` directory alongside the trained weights. It also dumps the predictions in the same directory.
+ 
+ Note that for sentiment analysis, we use a validation set to determine how many epochs to train for. We train the model for a maximum of 5 epochs, storing predictions after every epoch and finally select the predictions from the epoch in which the validation accuracy was highest. This can be computed using the get_scores.py script (`python get_scores.py`).
 
 # Todo
 * Make requirements.txt
