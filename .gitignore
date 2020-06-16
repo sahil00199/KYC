@@ -10,5 +10,6 @@ sentiment/get_data.py
 *cached*
 NER/data/processed/*
 sentiment/data/processed/*
+NER/runs/*
 
 
